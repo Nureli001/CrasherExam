@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Admin — Soru Ekle</title>
+</head>
+<body>
+<h2>Soru Ekle</h2>
+
+<label>Soru:</label><br>
+<input id="q" style="width:400px"><br><br>
+
+<label>A:</label><br>
+<input id="a"><br><br>
+
+<label>B:</label><br>
+<input id="b"><br><br>
+
+<label>C:</label><br>
+<input id="c"><br><br>
+
+<label>D:</label><br>
+<input id="d"><br><br>
+
+<label>Doğru cevap (A/B/C/D):</label><br>
+<input id="correct" maxlength="1"><br><br>
+
+<button onclick="addQuestion()">Kaydet</button>
+<button onclick="clearAll()">Hepsini Sil</button>
+
+<p id="msg"></p>
+
+<script>
+function getQuestions() {
+  return JSON.parse(localStorage.getItem("questions") || "[]");
+}
+
+function addQuestion() {
+  const q = document.getElementById("q").value;
+  const a = document.getElementById("a").value;
+  const b = document.getElementById("b").value;
+  const c = document.getElementById("c").value;
+  const d = document.getElementById("d").value;
+  const correct = document.getElementById("correct").value.toUpperCase();
+
+  if (!q || !a || !b || !c || !d || !"ABCD".includes(correct)) {
+    document.getElementById("msg").innerText = "Lütfen tüm alanları doldur.";
+    return;
+  }
+
+  const questions = getQuestions();
+  questions.push({ q, options: { A: a, B: b, C: c, D: d }, correct });
+
+  localStorage.setItem("questions", JSON.stringify(questions));
+  document.getElementById("msg").innerText = "Kaydedildi!";
+}
+
+function clearAll() {
+  localStorage.removeItem("questions");
+  document.getElementById("msg").innerText = "Tüm sorular silindi.";
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Sınav</title>
+</head>
+<body>
+
+<h2>Sınav</h2>
+<p id="timer"></p>
+<div id="quiz"></div>
+<button onclick="finish()">Bitir</button>
+<p id="result"></p>
+
+<script>
+let TIME = 15 * 60;
+let interval;
+let startScore = 0;
+
+function askStartScore() {
+  const val = parseInt(prompt("Imtahana girish balin nechedir? (0–50 arası)"));
+  if (isNaN(val) || val < 0 || val > 50) {
+    alert("0–50 arasında yaz.");
+    return askStartScore();
+  }
+  if (val < 17) {
+    document.body.innerHTML = "<h2>Giriş Balin 17’den Aazdir. Kesildin.</h2>";
+    return false;
+  }
+  startScore = val;
+  return true;
+}
+
+function getQuestions() {
+  return JSON.parse(localStorage.getItem("questions") || "[]");
+}
+
+function shuffle(a){return a.sort(()=>Math.random()-0.5);}
+
+function start() {
+  if (!askStartScore()) return;
+
+  let questions = getQuestions();
+  if (questions.length === 0) {
+    document.getElementById("quiz").innerHTML = "Soru yok.";
+    return;
+  }
+
+  questions = shuffle(questions).slice(0,25);
+  const quizDiv = document.getElementById("quiz");
+  quizDiv.innerHTML = "";
+
+  questions.forEach((q,i)=>{
+    const keys = shuffle(Object.keys(q.options));
+    let html = `<p><b>${i+1}. ${q.q}</b></p>`;
+    keys.forEach(k=>{
+      html += `
+        <label>
+          <input type="radio" name="q${i}" value="${k}">
+          ${k}) ${q.options[k]}
+        </label><br>`;
+    });
+    quizDiv.innerHTML += html;
+  });
+
+  localStorage.setItem("currentExam", JSON.stringify(questions));
+  interval = setInterval(updateTimer,1000);
+}
+
+function updateTimer() {
+  if (TIME<=0){clearInterval(interval);finish();return;}
+  TIME--;
+  const m=Math.floor(TIME/60),s=TIME%60;
+  document.getElementById("timer").innerText=`${m}:${s.toString().padStart(2,"0")}`;
+}
+
+function finish() {
+  clearInterval(interval);
+  const questions = JSON.parse(localStorage.getItem("currentExam")||"[]");
+  let score=0, correctCount=0, wrongCount=0;
+
+  questions.forEach((q,i)=>{
+    const selected=document.querySelector(`input[name="q${i}"]:checked`);
+    if (!selected) return;
+    if (selected.value===q.correct){score+=2;correctCount++;}
+    else {score-=1;wrongCount++;}
+  });
+
+  let total=startScore+score;
+  if (total<0) total=0;
+  if (total>100) total=100;
+
+  let grade="KALDIN";
+  if (total>=91) grade="A";
+  else if (total>=81) grade="B";
+  else if (total>=71) grade="C";
+  else if (total>=61) grade="D";
+  else if (total>=51) grade="E";
+
+  document.getElementById("result").innerHTML = `
+    Doğru: ${correctCount}<br>
+    Yanlış: ${wrongCount}<br>
+    Sınav Puanı: ${score}<br>
+    Giriş Puanı: ${startScore}<br>
+    Toplam: ${total} / 100<br>
+    Sonuç: <b>${grade}</b>
+  `;
+}
+start();
+</script>
+</body>
+</html>
