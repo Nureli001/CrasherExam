@@ -57,22 +57,19 @@ async function start() {
   quizDiv.innerHTML = "";
 
   questions.forEach((q, i) => {
-    const correct = q.correct;
-    const options = shuffle([
-      correct,
-      ...shuffle(["A", "B", "C", "D"].filter(x => x !== correct)).slice(0, 3)
-    ]);
+  const keys = shuffle(Object.keys(q.options));
 
-    let html = `<p><b>${i + 1}. ${q.q}</b></p>`;
-    options.forEach(opt => {
-      html += `
-        <label>
-          <input type="radio" name="q${i}" value="${opt}">
-          ${opt}
-        </label><br>`;
-    });
-    quizDiv.innerHTML += html;
+  let html = `<p><b>${i + 1}. ${q.q}</b></p>`;
+  keys.forEach(k => {
+    html += `
+      <label>
+        <input type="radio" name="q${i}" value="${k}">
+        ${k}) ${q.options[k]}
+      </label><br>`;
   });
+
+  quizDiv.innerHTML += html;
+});
 
   localStorage.setItem("currentExam", JSON.stringify(questions));
   interval = setInterval(updateTimer, 1000);
@@ -135,5 +132,6 @@ start();
 
 </body>
 </html>
+
 
 
