@@ -2,18 +2,18 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Sınav</title>
+  <title>Imtahan</title>
 </head>
 <body>
 
-<h2>Sınav</h2>
+<h2>Imtahan</h2>
 <p id="timer"></p>
 <div id="quiz"></div>
 <button onclick="finish()">Bitir</button>
 <p id="result"></p>
 
 <script>
-let TIME = 15 * 60;
+let TIME = 30 * 00;
 let interval;
 let startScore = 0;
 
@@ -25,10 +25,6 @@ function askStartScore() {
   if (isNaN(val) || val < 0 || val > 50) {
     alert("0–50 arasında yaz.");
     return askStartScore();
-  }
-  if (val < 17) {
-    document.body.innerHTML = "<h2>Giriş balın 17-dən azdır. Kəsildin.</h2>";
-    return false;
   }
   startScore = val;
   return true;
@@ -132,6 +128,7 @@ start();
 
 </body>
 </html>
+
 
 
 
