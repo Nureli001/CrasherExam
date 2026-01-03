@@ -2,7 +2,7 @@
   {
     "q": "Choose the correct answer: CU",
     "options": { "D": "Control unit", "B": "Common Unit", "C": "Central Unit", "A": "Computing Unit" },
-    "correct": "A"
+    "correct": "D"
   },
   {
     "q": "What does “LAN” stand for?",
@@ -1947,3 +1947,4 @@
   }
 
 ]
+
