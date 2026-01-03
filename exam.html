@@ -17,8 +17,7 @@ let TIME = 30 * 60;
 let interval;
 let startScore = 0;
 
-const QUESTIONS_URL =
-"https://nureli001.github.io/CrasherExam/questions.json";
+const QUESTIONS_URL = "https://nureli001.github.io/CrasherExam/questions.json";
 
 function askStartScore() {
   const val = parseInt(prompt("İmtahana giriş balın neçedir? (0–50 arası)"));
@@ -48,24 +47,29 @@ async function start() {
     return;
   }
 
+  // Soruları karıştır ve ilk 25 tanesini al
   questions = shuffle(questions).slice(0, 25);
   const quizDiv = document.getElementById("quiz");
   quizDiv.innerHTML = "";
 
   questions.forEach((q, i) => {
-  const keys = shuffle(Object.keys(q.options));
+    // Şıkları karıştırmak yerine sabit A, B, C, D sırasını kullanıyoruz
+    const keys = ["A", "B", "C", "D"];
 
-  let html = `<p><b>${i + 1}. ${q.q}</b></p>`;
-  keys.forEach(k => {
-    html += `
-      <label>
-        <input type="radio" name="q${i}" value="${k}">
-        ${k}) ${q.options[k]}
-      </label><br>`;
+    let html = <p><b>${i + 1}. ${q.q}</b></p>;
+    keys.forEach(k => {
+      // Eğer soruda bu şık mevcutsa ekle
+      if (q.options[k]) {
+        html += `
+          <label style="display: block; margin-bottom: 5px;">
+            <input type="radio" name="q${i}" value="${k}">
+            ${k}) ${q.options[k]}
+          </label>`;
+      }
+    });
+
+    quizDiv.innerHTML += html;
   });
-
-  quizDiv.innerHTML += html;
-});
 
   localStorage.setItem("currentExam", JSON.stringify(questions));
   interval = setInterval(updateTimer, 1000);
@@ -81,7 +85,7 @@ function updateTimer() {
   const m = Math.floor(TIME / 60),
         s = TIME % 60;
   document.getElementById("timer").innerText =
-    `${m}:${s.toString().padStart(2, "0")}`;
+    ${m}:${s.toString().padStart(2, "0")};
 }
 
 function finish() {
@@ -90,8 +94,7 @@ function finish() {
   let score = 0, correctCount = 0, wrongCount = 0;
 
   questions.forEach((q, i) => {
-    const selected =
-      document.querySelector(`input[name="q${i}"]:checked`);
+    const selected = document.querySelector(input[name="q${i}"]:checked);
     if (!selected) return;
 
     if (selected.value === q.correct) {
@@ -127,7 +130,7 @@ start();
 </script>
 
 </body>
-</html>
+</html
 
 
 
