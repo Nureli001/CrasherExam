@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Imtahan</title>
+</head>
+<body>
+
+<h2>Imtahan</h2>
+<p id="timer"></p>
+<div id="quiz"></div>
+<button onclick="finish()">Bitir</button>
+<p id="result"></p>
+
+<script>
+let TIME = 30 * 60;
+let interval;
+let startScore = 0;
+
+const QUESTIONS_URL =
+"https://nureli001.github.io/CrasherExam/questions.json";
+
+function askStartScore() {
+  const val = parseInt(prompt("İmtahana giriş balın neçedir? (0–50 arası)"));
+  if (isNaN(val) || val < 0 || val > 50) {
+    alert("0–50 arasında yaz.");
+    return askStartScore();
+  }
+  startScore = val;
+  return true;
+}
+
+function shuffle(a) {
+  return a.sort(() => Math.random() - 0.5);
+}
+
+async function getQuestions() {
+  const res = await fetch(QUESTIONS_URL);
+  return await res.json();
+}
+
+async function start() {
+  if (!askStartScore()) return;
+
+  let questions = await getQuestions();
+  if (!questions || questions.length === 0) {
+    document.getElementById("quiz").innerHTML = "Soru yok.";
+    return;
+  }
+
+  questions = shuffle(questions).slice(0, 25);
+  const quizDiv = document.getElementById("quiz");
+  quizDiv.innerHTML = "";
+
+  questions.forEach((q, i) => {
+  const keys = shuffle(Object.keys(q.options));
+
+  let html = `<p><b>${i + 1}. ${q.q}</b></p>`;
+  keys.forEach(k => {
+    html += `
+      <label>
+        <input type="radio" name="q${i}" value="${k}">
+        ${k}) ${q.options[k]}
+      </label><br>`;
+  });
+
+  quizDiv.innerHTML += html;
+});
+
+  localStorage.setItem("currentExam", JSON.stringify(questions));
+  interval = setInterval(updateTimer, 1000);
+}
+
+function updateTimer() {
+  if (TIME <= 0) {
+    clearInterval(interval);
+    finish();
+    return;
+  }
+  TIME--;
+  const m = Math.floor(TIME / 60),
+        s = TIME % 60;
+  document.getElementById("timer").innerText =
+    `${m}:${s.toString().padStart(2, "0")}`;
+}
+
+function finish() {
+  clearInterval(interval);
+  const questions = JSON.parse(localStorage.getItem("currentExam") || "[]");
+  let score = 0, correctCount = 0, wrongCount = 0;
+
+  questions.forEach((q, i) => {
+    const selected =
+      document.querySelector(`input[name="q${i}"]:checked`);
+    if (!selected) return;
+
+    if (selected.value === q.correct) {
+      score += 2;
+      correctCount++;
+    } else {
+      score -= 1;
+      wrongCount++;
+    }
+  });
+
+  let total = startScore + score;
+  total = Math.max(0, Math.min(100, total));
+
+  let grade = "F";
+  if (total >= 91) grade = "A";
+  else if (total >= 81) grade = "B";
+  else if (total >= 71) grade = "C";
+  else if (total >= 61) grade = "D";
+  else if (total >= 51) grade = "E";
+
+  document.getElementById("result").innerHTML = `
+    Doğru: ${correctCount}<br>
+    Sehv: ${wrongCount}<br>
+    Imtahan Bali: ${score}<br>
+    Giriş Bali: ${startScore}<br>
+    Cemi Bal: ${total} / 100<br>
+    Umumi: <b>${grade}</b>
+  `;
+}
+
+start();
+</script>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
