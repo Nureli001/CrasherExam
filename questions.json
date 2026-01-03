@@ -1,0 +1,1558 @@
+[
+  {
+    "q": "Fənn:\t\tXarici dildə işgüzar və akademik kom. - 3 (K/M; İ/T) [390 sual var]",
+    "answer": "1 . \t\tChoose the correct answer: CU"
+  },
+  {
+    "q": "Control unit",
+    "answer": "2 . \t\tAnswer the question: What does “LAN” stand for?"
+  },
+  {
+    "q": "local area network",
+    "answer": "3 . \t\tChoose the correct answer: AI"
+  },
+  {
+    "q": "artificial intelligence",
+    "answer": "4 . \t\tAnswer the question: What does “ASCI” stand for?"
+  },
+  {
+    "q": "american standards code for information interchange",
+    "answer": "5 . \t\tChoose the correct answer: AT"
+  },
+  {
+    "q": "Advanced technology",
+    "answer": "6 . \t\tAnswer the question: What does “IT” stand for?"
+  },
+  {
+    "q": "information technology",
+    "answer": "7 . \t\tChoose the correct answer: IBM"
+  },
+  {
+    "q": "international buisness machnie",
+    "answer": "8 . \t\tAnswer the question: What does “ALU” stand for?"
+  },
+  {
+    "q": "ariphmetic logic unit",
+    "answer": "9 . \t\tChoose the correct answer: BIOS"
+  },
+  {
+    "q": "basic input output system",
+    "answer": "10 . \t\tFind the correct answer: Bps"
+  },
+  {
+    "q": "bits per second",
+    "answer": "11 . \t\tAnswer the question: What does “CAD” stand for?"
+  },
+  {
+    "q": "Computer aided Desing",
+    "answer": "12 . \t\tAnswer the question: What does “CGA” stand for?"
+  },
+  {
+    "q": "Colour Graphics Adapter",
+    "answer": "13 . \t\tAnswer the question: What does “DNS” stand for?"
+  },
+  {
+    "q": "Domain Name Server",
+    "answer": "14 . \t\tAnswer the question: What does “FAT” stand for?"
+  },
+  {
+    "q": "file allocation table",
+    "answer": "15 . \t\tAnswer the question: What does “FAQ” stand for?"
+  },
+  {
+    "q": "frequently asked questions",
+    "answer": "16 . \t\tAnswer the question: What does “FTP” stand for?"
+  },
+  {
+    "q": "file transfer protocol",
+    "answer": "17 . \t\tAnswer the question: What does “GIF” stand for?"
+  },
+  {
+    "q": "graphics  interchange format",
+    "answer": "18 . \t\tAnswer the question: What does “IP” stand for?"
+  },
+  {
+    "q": "internet protocol",
+    "answer": "19 . \t\tAnswer the question: What does “MPC” stand for?"
+  },
+  {
+    "q": "multimedia personal computer",
+    "answer": "20 . \t\tAnswer the question: What is “pixel”?"
+  },
+  {
+    "q": "the smallest element on the screen",
+    "answer": "21 . \t\tAnswer the question: What does “HDD” stand for?"
+  },
+  {
+    "q": "Hard Disc Drive",
+    "answer": "22 . \t\tAnswer the question: What does “UPS” stand for?"
+  },
+  {
+    "q": "Uninterruptable Power Supply",
+    "answer": "23 . \t\tFind the correct translation: Kəsilməz Qida Bloku"
+  },
+  {
+    "q": "uninterruptable power supply",
+    "answer": "24 . \t\tAnswer the question: What does “SVGA” stand for?"
+  },
+  {
+    "q": "super video graphics adapter",
+    "answer": "25 . \t\tAnswer the question: What does “LCD” stand for?"
+  },
+  {
+    "q": "26 . \t\tFind the correct variant: keyboard is ….",
+    "answer": "a panel keys that operate a computer"
+  },
+  {
+    "q": "27 . \t\tChoose the appropriate variant: computer is ….",
+    "answer": "an electronic device for storing and processing data"
+  },
+  {
+    "q": "28 . \t\tChoose the appropriate answer: keyboard is ….",
+    "answer": "a panel keys that operate a computer"
+  },
+  {
+    "q": "29 . \t\tAnswer the question: What is the correct answer for “PC”?",
+    "answer": "personal computer"
+  },
+  {
+    "q": "30 . \t\tAnswer the question: What is the correct answer for “CPU”",
+    "answer": "central processing unit"
+  },
+  {
+    "q": "31 . \t\tAnswer the question: What is the correct answer for “e-mail”?",
+    "answer": "electronic mail"
+  },
+  {
+    "q": "32 . \t\tChoose the synonym: motherboard",
+    "answer": "mainboard"
+  },
+  {
+    "q": "33 . \t\tFind the appropriate variant: USB",
+    "answer": "universal serial bus"
+  },
+  {
+    "q": "34 . \t\tComplete: Using a keyboard to enter lots of date is called ....",
+    "answer": "typing"
+  },
+  {
+    "q": "35 . \t\tFill in the gap: ....... is an electronic device that shows pictures for computers",
+    "answer": "a computer monitor"
+  },
+  {
+    "q": "36 . \t\tFill in the gap: .... is technology that allows a person to connect on electronic device to a computer.",
+    "answer": "USB"
+  },
+  {
+    "q": "37 . \t\tFill in the gap: .... is a document sent with an email message",
+    "answer": "attachment"
+  },
+  {
+    "q": "38 . \t\tFill in the gap: ...... is the smallest unit of measurement in computing",
+    "answer": "a bit"
+  },
+  {
+    "q": "39 . \t\tFind the correct answer: CAT",
+    "answer": "computer assisted translation"
+  },
+  {
+    "q": "40 . \t\tAnswer the question: What is the synonym of “CAT”?",
+    "answer": "machinery translation"
+  },
+  {
+    "q": "41 . \t\tAnswer the question: What is the correct answer for “ISP”?",
+    "answer": "internet service provider"
+  },
+  {
+    "q": "42 . \t\tAnswer the question: What is the correct answer for “LAN”",
+    "answer": "local area network"
+  },
+  {
+    "q": "43 . \t\tFind the appropriate answer: computer hardware",
+    "answer": "the physical ....."
+  },
+  {
+    "q": "44 . \t\tAnswer the question: What is the other name of \"motherboard\"",
+    "answer": "mainboard"
+  },
+  {
+    "q": "45 . \t\tFill in the gap: ………. is a popular way to store digital information",
+    "answer": "usb flash drive"
+  },
+  {
+    "q": "46 . \t\tFill in the gap: ….. is a data storage device for computers",
+    "answer": "hdd"
+  },
+  {
+    "q": "47 . \t\tFill in the gap: …. is an input device that allows to enter letters, numbers and other symbols",
+    "answer": "keyboard"
+  },
+  {
+    "q": "48 . \t\tFill in the gap: …. is an electronic device that shows pictures for computers",
+    "answer": "monitor"
+  },
+  {
+    "q": "49 . \t\tAnswer the question: What is the opposite of \"download\"?",
+    "answer": "upload"
+  },
+  {
+    "q": "50 . \t\tFill in the gap: …. means getting information from another computer or server",
+    "answer": "download"
+  },
+  {
+    "q": "51 . \t\tAnswer the question: What is the opposite of \"upload\"?",
+    "answer": "download"
+  },
+  {
+    "q": "52 . \t\tFill in the gap: …. is technology that allows to connect an electronic device to a computer",
+    "answer": "usb"
+  },
+  {
+    "q": "53 . \t\tFind the appropriate variant: WWW",
+    "answer": "World wide web"
+  },
+  {
+    "q": "54 . \t\tFill in the gap: …. is a document sent with an email message",
+    "answer": "attachment"
+  },
+  {
+    "q": "55 . \t\tAnswer the question: What is a bit?",
+    "answer": "The smallest  unit of measurment in computing"
+  },
+  {
+    "q": "56 . \t\tFill in the gap: …. is the smallest unit of measurement in computing",
+    "answer": "a bit"
+  },
+  {
+    "q": "57 . \t\tComplete: Bit is …….",
+    "answer": "The smallest unit of measurement in computing"
+  },
+  {
+    "q": "58 . \t\tFill in the gap: …. is a software program that allows you to surf the web",
+    "answer": "browser"
+  },
+  {
+    "q": "59 . \t\tChoose the correct variant: CAD",
+    "answer": "Computer  aided design"
+  },
+  {
+    "q": "60 . \t\tFill in the gap: …. is to load and initialize the operating system on a computer",
+    "answer": "a boot"
+  },
+  {
+    "q": "61 . \t\tFill in the gap: …. refers to a website`s text and information",
+    "answer": "content"
+  },
+  {
+    "q": "62 . \t\tAnswer the question: What is the meaning of CPU?",
+    "answer": "central processing unit"
+  },
+  {
+    "q": "63 . \t\tFill in the gap: …. is responsible for performing calculations and tasks that make programs work",
+    "answer": "CPU"
+  },
+  {
+    "q": "64 . \t\tFill in the gap: …. is a small program that allows a peripheral device such as a printer or scanner to connect to your PC",
+    "answer": "device driver"
+  },
+  {
+    "q": "65 . \t\tFill in the gap: …. is a set of computers on a network that are managed as a unit",
+    "answer": "domain"
+  },
+  {
+    "q": "66 . \t\tAnswer the question: What is the meaning of DV?",
+    "answer": "digital video"
+  },
+  {
+    "q": "67 . \t\tFill in the gap: …. is a way of sending messages over the Internet",
+    "answer": "electronic mail"
+  },
+  {
+    "q": "68 . \t\tAnswer the question: What is the meaning of Email?",
+    "answer": "electronic mail"
+  },
+  {
+    "q": "69 . \t\tComplete: The physical place where a computer stores information - applications and files - is known as its ….",
+    "answer": "HDD"
+  },
+  {
+    "q": "70 . \t\tAnswer the question: What is the meaning of HDD?",
+    "answer": "Hard disc drive"
+  },
+  {
+    "q": "71 . \t\tFill in the gap: …. is the page that an Internet browser first opens up to",
+    "answer": "home page"
+  },
+  {
+    "q": "72 . \t\tAnswer the question: What is the meaning of HTML?",
+    "answer": "hyper-text markup language"
+  },
+  {
+    "q": "73 . \t\tFill in the gap: …. is a set of symbols inserted into files intended for display on the world wide web",
+    "answer": "HTML"
+  },
+  {
+    "q": "74 . \t\tAnswer the question: What is the meaning of FTP?",
+    "answer": "file transfer protocol"
+  },
+  {
+    "q": "75 . \t\tFill in the gap: …. is a set of interconnected networks that allow computers in different locations to exchange information.",
+    "answer": "internet"
+  },
+  {
+    "q": "76 . \t\tAnswer the question: What is the meaning of ISP?",
+    "answer": "Internet service provider"
+  },
+  {
+    "q": "77 . \t\tFill in the gap: …. is a company that provides access to the Internet",
+    "answer": "ISP"
+  },
+  {
+    "q": "78 . \t\tAnswer the question: What is the meaning of LAN?",
+    "answer": "Local Area Network"
+  },
+  {
+    "q": "79 . \t\tFill in the gap: …. is the unit used to measure the speed of a computer`s processor",
+    "answer": "megahertz"
+  },
+  {
+    "q": "80 . \t\tFill in the gap: …. is a device that allows computers to transmit information to each other via ordinary telephone lines",
+    "answer": "modem"
+  },
+  {
+    "q": "81 . \t\tAnswer the question: What is the meaning of OS?",
+    "answer": "Operating system"
+  },
+  {
+    "q": "82 . \t\tComplete: The most prominent operating system is ….",
+    "answer": "Microsoft windows"
+  },
+  {
+    "q": "83 . \t\tAnswer the question: What is the meaning of PDF?",
+    "answer": "Portable document file"
+  },
+  {
+    "q": "84 . \t\tFill in the gap: …. is a file type created by Adobe Systems Inc.",
+    "answer": "pdf"
+  },
+  {
+    "q": "85 . \t\tAnswer the question: What is the meaning of PPM?",
+    "answer": "Pages per minute"
+  },
+  {
+    "q": "86 . \t\tFill in the gap: …. is responsible for performing calculations and tasks that make programs work",
+    "answer": "processor"
+  },
+  {
+    "q": "87 . \t\tAnswer the question: What is the meaning of RAM?",
+    "answer": "random access memory"
+  },
+  {
+    "q": "88 . \t\tAnswer the question: What is the meaning of ROM?",
+    "answer": "Read only memory"
+  },
+  {
+    "q": "89 . \t\tFill in the gap: … is the part of a computer`s memory that cannot be changed by a user",
+    "answer": "rom"
+  },
+  {
+    "q": "90 . \t\tFill in the gap: …. stands for read-only memory",
+    "answer": "ROM"
+  },
+  {
+    "q": "91 . \t\tFill in the gap: …. stands for random access memory",
+    "answer": "RAM"
+  },
+  {
+    "q": "92 . \t\tFill in the gap: …. stands for pages per minute",
+    "answer": "PPM"
+  },
+  {
+    "q": "93 . \t\tFill in the gap: …. stands for portable document format",
+    "answer": "PDF"
+  },
+  {
+    "q": "94 . \t\tFill in the gap: …. stands for operating system",
+    "answer": "OS"
+  },
+  {
+    "q": "95 . \t\tFill in the gap: …. stands for internet service provider",
+    "answer": "iSP"
+  },
+  {
+    "q": "96 . \t\tFill in the gap: …. stands for file transfer protocol",
+    "answer": "FTP"
+  },
+  {
+    "q": "97 . \t\tFill in the gap: …. stands for hyper-text markup language",
+    "answer": "HTML"
+  },
+  {
+    "q": "98 . \t\tFill in the gap: …. stands for hard disk drive",
+    "answer": "HDD"
+  },
+  {
+    "q": "99 . \t\tFill in the gap: …. stands for digital video",
+    "answer": "DV"
+  },
+  {
+    "q": "100 . \t\tFill in the gap: …. stands for central processing unit",
+    "answer": "CPU"
+  },
+  {
+    "q": "101 . \t\tFill in the gap: …. stands for personal computer",
+    "answer": "PC"
+  },
+  {
+    "q": "102 . \t\tFill in the gap: …. stands for computer-aided design",
+    "answer": "CAD"
+  },
+  {
+    "q": "103 . \t\tFill in the gap: …. stands for asymmetric digital subscriber line",
+    "answer": "ADSL"
+  },
+  {
+    "q": "104 . \t\tFill in the gap: …. stands for World Wide Web",
+    "answer": "WWW"
+  },
+  {
+    "q": "105 . \t\tFill in the gap: …. stands for Computer Assisted Translation",
+    "answer": "CAT"
+  },
+  {
+    "q": "106 . \t\tFill in the gap: …. stands for Universal Serial Bus",
+    "answer": "USB"
+  },
+  {
+    "q": "107 . \t\tFill in the gap: …. stands for Super Video Graphics Adapter",
+    "answer": "SVGA"
+  },
+  {
+    "q": "108 . \t\tFill in the gap: …. stands for Hard Disc Drive",
+    "answer": "HDD"
+  },
+  {
+    "q": "109 . \t\tFill in the gap: …. stands for Uninterruptable Power Supply",
+    "answer": "UPS"
+  },
+  {
+    "q": "110 . \t\tFill in the gap: …. stands for multimedia personal computer",
+    "answer": "MPC"
+  },
+  {
+    "q": "111 . \t\tFill in the gap: …. stands for internet protocol",
+    "answer": "IP"
+  },
+  {
+    "q": "112 . \t\tFill in the gap: …. stands for graphics interchange format",
+    "answer": "GIF"
+  },
+  {
+    "q": "113 . \t\tFill in the gap: …. stands for frequently asked questions",
+    "answer": "FAQ"
+  },
+  {
+    "q": "114 . \t\tFill in the gap: …. stands for file allocation table",
+    "answer": "FAL"
+  },
+  {
+    "q": "115 . \t\tFill in the gap: …. stands for Colour Graphics Adapter",
+    "answer": "CPA"
+  },
+  {
+    "q": "116 . \t\tFill in the gap: …. stands for Bits per second",
+    "answer": "BPS"
+  },
+  {
+    "q": "117 . \t\tFill in the gap: …. stands for basic input output system",
+    "answer": "BİOS"
+  },
+  {
+    "q": "118 . \t\tFill in the gap: …. stands for Domain Name Server",
+    "answer": "DNS"
+  },
+  {
+    "q": "119 . \t\tFill in the gap: …. stands for Ariphmetic Logic Unit",
+    "answer": "ALU"
+  },
+  {
+    "q": "120 . \t\tFill in the gap: …. stands for international business machine",
+    "answer": "İBM"
+  },
+  {
+    "q": "121 . \t\tFill in the gap: …. stands for Advanced Technology",
+    "answer": "AT"
+  },
+  {
+    "q": "122 . \t\tFill in the gap: …. stands for information technology",
+    "answer": "İT"
+  },
+  {
+    "q": "123 . \t\tFill in the gap: …. stands for American Standards Code for Information Interchange",
+    "answer": "ASCİ"
+  },
+  {
+    "q": "124 . \t\tFill in the gap: …. stands for Artificial Intelligence",
+    "answer": "Aİ"
+  },
+  {
+    "q": "125 . \t\tFill in the gap: …. stands for control unit",
+    "answer": "CU"
+  },
+  {
+    "q": "126 . \t\tComplete: …. is a piece of programming code inserted into other programming to cause damage",
+    "answer": "virus"
+  },
+  {
+    "q": "127 . \t\tComplete: … is a technology that allows computers and other devices to communicate via a wireless signal",
+    "answer": "WI-FI"
+  },
+  {
+    "q": "128 . \t\tFill in the gap: …. stands for Wi-Fi protected access",
+    "answer": "WPA"
+  },
+  {
+    "q": "129 . \t\tFill in the gap: …. is to archive and compress them into one file of smaller size using a program",
+    "answer": "to zip files"
+  },
+  {
+    "q": "130 . \t\tComplete: An …. is any hardware device that sends data to a computer",
+    "answer": "input device"
+  },
+  {
+    "q": "131 . \t\tComplete: An …. is any peripheral that receives data from a computer",
+    "answer": "output device"
+  },
+  {
+    "q": "132 . \t\tComplete: Short for control is ….",
+    "answer": "Ctrl"
+  },
+  {
+    "q": "133 . \t\tComplete: Short for Alternate ….",
+    "answer": "Alt"
+  },
+  {
+    "q": "134 . \t\tFind the correct translate: keçid düymələri",
+    "answer": "toggle keys"
+  },
+  {
+    "q": "135 . \t\tComplete: Short for Function is ….",
+    "answer": "Fn"
+  },
+  {
+    "q": "136 . \t\tComplete: Short for Escape is ….",
+    "answer": "Esc"
+  },
+  {
+    "q": "137 . \t\tFill in the gap: …. stands for Secure Socket Layer",
+    "answer": "SSL"
+  },
+  {
+    "q": "138 . \t\tFill in the gap: …. stands for Virtual Private Network",
+    "answer": "VPN"
+  },
+  {
+    "q": "139 . \t\tFill in the gap: …. stands for Wide Area Network",
+    "answer": "WAN"
+  },
+  {
+    "q": "140 . \t\tFill in the gap: …. stands for Human Resources",
+    "answer": "HR"
+  },
+  {
+    "q": "141 . \t\tComplete: …. stands for Internet Service Provider",
+    "answer": "ISP"
+  },
+  {
+    "q": "142 . \t\tFill in the gap: …. stands for Service Report",
+    "answer": "SR"
+  },
+  {
+    "q": "143 . \t\tFill in the gap: …. stands for Digital World",
+    "answer": "DW"
+  },
+  {
+    "q": "144 . \t\tComplete: …. stands for Graphical User Interface",
+    "answer": "GUI"
+  },
+  {
+    "q": "145 . \t\tFill in the gap: …. stands for Uniform Resource Locator",
+    "answer": "URL"
+  },
+  {
+    "q": "146 . \t\tFill in the gap: …. stands for Personal Identification Number",
+    "answer": "PIN"
+  },
+  {
+    "q": "147 . \t\tFill in the gap: …. stands for Automated Teller Machine",
+    "answer": "ATM"
+  },
+  {
+    "q": "148 . \t\tChoose the correct translation: Xidmət Hesabatı",
+    "answer": "Service report"
+  },
+  {
+    "q": "149 . \t\tFill in the gap: …. stands for Global Positioning System",
+    "answer": "GPS"
+  },
+  {
+    "q": "150 . \t\tFill in the gap: Yesterday I ….. to the mall after school.",
+    "answer": "went"
+  },
+  {
+    "q": "151 . \t\tFill in the gap: My brother ….. a bear an hour ago.",
+    "answer": "saw"
+  },
+  {
+    "q": "152 . \t\tFill in the gap: ….. Mike visit his grandmother last night?\t\t\t\t\t\t\t\t\t\t                       DID",
+    "answer": "153 . \t\tFill in the gap: …. Judy and Liz at last month`s meeting?"
+  },
+  {
+    "q": "154 . \t\tFill in the gap: We …. not happy after the sad ending.",
+    "answer": "Weren’t"
+  },
+  {
+    "q": "155 . \t\tFill in the gap: …. you see Jody`s new dog yesterday?",
+    "answer": "did"
+  },
+  {
+    "q": "156 . \t\tFill in the gap: Sorry, I ….. hear you at the door.",
+    "answer": "Didn’t"
+  },
+  {
+    "q": "157 . \t\tFill in the gap: What …. you eat for lunch yesterday?",
+    "answer": "did"
+  },
+  {
+    "q": "158 . \t\tFill in the gaps: I …….. a friend while I …… the shopping.",
+    "answer": "Met, was doing"
+  },
+  {
+    "q": "159 . \t\tFill in the gaps: I ………. and I ………. the knife.",
+    "answer": "Was cooking,droping"
+  },
+  {
+    "q": "160 . \t\tFill in the gap: What ………. at 8.00 last night?",
+    "answer": "Were you doing"
+  },
+  {
+    "q": "161 . \t\tFill in the gaps: While I ……….. this morning, I ………. my money. I don`t know how.",
+    "answer": "Was sphopping, ......."
+  },
+  {
+    "q": "162 . \t\tFill in the gap: When we came in he ………. something on the paper.",
+    "answer": "Was writing"
+  },
+  {
+    "q": "163 . \t\tFill in the gaps: I …….. to the news on the radio when the phone ………… .",
+    "answer": "was listening , rang"
+  },
+  {
+    "q": "164 . \t\tFill in the gap: They ….... the TV when I came in.",
+    "answer": "Were watching"
+  },
+  {
+    "q": "165 . \t\tFill in the gap: When I phoned she … a bath.",
+    "answer": "Was taking / having"
+  },
+  {
+    "q": "166 . \t\tFill in the gap: What … when your mother came back home?",
+    "answer": "were you  doing"
+  },
+  {
+    "q": "167 . \t\tFill in the gap: He …. not want to go to the movies.",
+    "answer": "does"
+  },
+  {
+    "q": "168 . \t\tChoose present tense: It …. a beautiful day today.",
+    "answer": "is"
+  },
+  {
+    "q": "169 . \t\tFill in the gap: Sorry, Lisa _____ not here.",
+    "answer": "is"
+  },
+  {
+    "q": "170 . \t\tFill in the gap: My parents …. in a two-bedroom apartment.",
+    "answer": "live"
+  },
+  {
+    "q": "171 . \t\tFill in the gap: You …. so happy today!",
+    "answer": "are"
+  },
+  {
+    "q": "172 . \t\tFill in the gap: We ….. English on Sundays.",
+    "answer": "speak"
+  },
+  {
+    "q": "173 . \t\tFill in the gap: His brother ….. a test every year.",
+    "answer": "writes"
+  },
+  {
+    "q": "174 . \t\tFill in the gap: My brother often …. his own website.",
+    "answer": "designs"
+  },
+  {
+    "q": "175 . \t\tFill in the gap: I usually …. to find a place to stay.",
+    "answer": "try"
+  },
+  {
+    "q": "176 . \t\tFill in the gap: He …. how to use a computer every week.",
+    "answer": "learns"
+  },
+  {
+    "q": "177 . \t\tFill in the gap: My dad often …. my computer",
+    "answer": "repairs."
+  },
+  {
+    "q": "178 . \t\tFill in the gap: The students …. a new project every month.",
+    "answer": "do"
+  },
+  {
+    "q": "179 . \t\tFill in the gap: This computer was ….. than I was expecting.",
+    "answer": "cheaper"
+  },
+  {
+    "q": "180 . \t\tFill in the gap: It`s ….. computer in Europe.",
+    "answer": "The most expensive"
+  },
+  {
+    "q": "181 . \t\tFill in the gap: My sister thinks she`s …. than me, but I don`t agree!",
+    "answer": "More intelligent"
+  },
+  {
+    "q": "182 . \t\tFill in the gap: Who is …. person in your country?",
+    "answer": "The most poweful"
+  },
+  {
+    "q": "183 . \t\tFill in the gap: It was …. music I have ever heard.",
+    "answer": "The most beautiful"
+  },
+  {
+    "q": "184 . \t\tFill in the gap: This girl is ….. than the rest of the class.",
+    "answer": "More intelligent"
+  },
+  {
+    "q": "185 . \t\tFill in the gap: Two heads are …. than one.",
+    "answer": "better"
+  },
+  {
+    "q": "186 . \t\tFill in the gap: Your computer skills are much …. now.",
+    "answer": "better"
+  },
+  {
+    "q": "187 . \t\tFill in the gap: This subject is ….. than that one.",
+    "answer": "More interesting"
+  },
+  {
+    "q": "188 . \t\tFill in the gap: This is ….. computer in the store.",
+    "answer": "The  most expensive"
+  },
+  {
+    "q": "189 . \t\tTranslate: verilənlər bazasının administratoru",
+    "answer": "Database administator"
+  },
+  {
+    "q": "190 . \t\tChoose the correct translation: layihə meneceri",
+    "answer": "Project manager"
+  },
+  {
+    "q": "191 . \t\tTranslate: proqram tərtibatçısı",
+    "answer": "Software development"
+  },
+  {
+    "q": "192 . \t\tTranslate: sistem analitiki",
+    "answer": "Systems analyst"
+  },
+  {
+    "q": "193 . \t\tChoose the correct translation: təchizatçı",
+    "answer": "supplier"
+  },
+  {
+    "q": "194 . \t\tChoose the correct translation: orta ölçülü şirkətlər",
+    "answer": "Medium sized company"
+  },
+  {
+    "q": "195 . \t\tChoose the correct translation: rəqəmsal dünya",
+    "answer": "digital world"
+  },
+  {
+    "q": "196 . \t\tTranslate: oyun oynayan müştərilər",
+    "answer": "game playing customers"
+  },
+  {
+    "q": "197 . \t\tTranslate: əməliyyat sistemi",
+    "answer": "operating system"
+  },
+  {
+    "q": "198 . \t\tFind the appropriate translation: heyət",
+    "answer": "staff"
+  },
+  {
+    "q": "199 . \t\tFind the appropriate translation: təhsil müəssisələri",
+    "answer": "educational organizations"
+  },
+  {
+    "q": "200 . \t\tFind the appropriate translation: iş yeri qaydaları",
+    "answer": "workplace organizations"
+  },
+  {
+    "q": "201 . \t\tFind the appropriate translation: işarə",
+    "answer": "sign"
+  },
+  {
+    "q": "202 . \t\tFind the appropriate translation: təhlükəsizlik",
+    "answer": "security"
+  },
+  {
+    "q": "203 . \t\tFind the appropriate translation: parol",
+    "answer": "password"
+  },
+  {
+    "q": "204 . \t\tFind the appropriate translation: iş yoldaşı",
+    "answer": "collegue"
+  },
+  {
+    "q": "205 . \t\tFind the appropriate translation: şirkət avadanlığı",
+    "answer": "Company equpiment"
+  },
+  {
+    "q": "206 . \t\tFind the appropriate translation: şəxsi səbəblər",
+    "answer": "person reaos"
+  },
+  {
+    "q": "207 . \t\tFind the appropriate translation: texnik",
+    "answer": "technician"
+  },
+  {
+    "q": "208 . \t\tFind the appropriate translation: təklif",
+    "answer": "suggestion"
+  },
+  {
+    "q": "209 . \t\tFind the appropriate translation: cari iş",
+    "answer": "current job"
+  },
+  {
+    "q": "210 . \t\tFind the appropriate translation: sədr",
+    "answer": "chairperson"
+  },
+  {
+    "q": "211 . \t\tFind the appropriate translation: yerli məmur",
+    "answer": "local officer"
+  },
+  {
+    "q": "212 . \t\tFind the appropriate translation: əvəz etmək",
+    "answer": "replace"
+  },
+  {
+    "q": "213 . \t\tFind the appropriate translation: yeni kompüter icarəyə götürmək",
+    "answer": "to hire  a new computer"
+  },
+  {
+    "q": "214 . \t\tFind the appropriate translation: şirkətin təsviri",
+    "answer": "company description"
+  },
+  {
+    "q": "215 . \t\tFind the appropriate translation: səmərəli",
+    "answer": "efficiently"
+  },
+  {
+    "q": "216 . \t\tFind the appropriate translation: əməliyyat sistemi",
+    "answer": "operating system"
+  },
+  {
+    "q": "217 . \t\tFind the appropriate translation: təzələmək",
+    "answer": "refresh"
+  },
+  {
+    "q": "218 . \t\tFind the appropriate translation: istirak etmək",
+    "answer": "take part in"
+  },
+  {
+    "q": "219 . \t\tFind the appropriate translation: işçi",
+    "answer": "emplyoee"
+  },
+  {
+    "q": "220 . \t\tFind the appropriate translation: internet bağlantısı",
+    "answer": "internet connection"
+  },
+  {
+    "q": "221 . \t\tFind the appropriate translation: yükləmək",
+    "answer": "load"
+  },
+  {
+    "q": "222 . \t\tFind the appropriate translation: tire",
+    "answer": "dash"
+  },
+  {
+    "q": "223 . \t\tFind the appropriate translation: nöqtə",
+    "answer": "dote"
+  },
+  {
+    "q": "224 . \t\tFind the appropriate translation: nəticə",
+    "answer": "result"
+  },
+  {
+    "q": "225 . \t\tFind the appropriate translation: səhifə",
+    "answer": "page"
+  },
+  {
+    "q": "226 . \t\tFind the appropriate translation: əsas növlər",
+    "answer": "main types"
+  },
+  {
+    "q": "227 . \t\tFind the appropriate translation: oxşar funksiyalar",
+    "answer": "similar functions"
+  },
+  {
+    "q": "228 . \t\tFind the appropriate translation: müştəri",
+    "answer": "client"
+  },
+  {
+    "q": "229 . \t\tChoose the appropriate translation: cari system",
+    "answer": "current system"
+  },
+  {
+    "q": "230 . \t\tFind the appropriate translation: faktura, hesab",
+    "answer": "invoice"
+  },
+  {
+    "q": "231 . \t\tFind the appropriate translation: sənədləşmə işləri",
+    "answer": "paperwork"
+  },
+  {
+    "q": "232 . \t\tFind the appropriate translation: mütəxəssis",
+    "answer": "specialist"
+  },
+  {
+    "q": "233 . \t\tFind the appropriate translation: blok-sxem",
+    "answer": "flowchart"
+  },
+  {
+    "q": "234 . \t\tChoose the appropriate translation: məqsəd",
+    "answer": "purpose"
+  },
+  {
+    "q": "235 . \t\tFind the appropriate translation: ölçü",
+    "answer": "measure"
+  },
+  {
+    "q": "236 . \t\tChoose the appropriate translation: sürət",
+    "answer": "speed"
+  },
+  {
+    "q": "237 . \t\tFind the appropriate translation: məhsuldar",
+    "answer": "productive"
+  },
+  {
+    "q": "238 . \t\tFind the appropriate translation: imza",
+    "answer": "signature"
+  },
+  {
+    "q": "239 . \t\tFind the appropriate translation: müqayisə etmək",
+    "answer": "compare"
+  },
+  {
+    "q": "240 . \t\tFind the appropriate translation: tələb",
+    "answer": "request"
+  },
+  {
+    "q": "241 . \t\tFind the appropriate translation: fərq",
+    "answer": "difference"
+  },
+  {
+    "q": "242 . \t\tFind the appropriate translation: nümayəndə",
+    "answer": "representative"
+  },
+  {
+    "q": "243 . \t\tComplete: to be interested ….",
+    "answer": "in"
+  },
+  {
+    "q": "244 . \t\tComplete: to be good ….",
+    "answer": "at"
+  },
+  {
+    "q": "245 . \t\tComplete: to be responsible ….",
+    "answer": "for"
+  },
+  {
+    "q": "246 . \t\tComplete: to be afraid ….",
+    "answer": "of"
+  },
+  {
+    "q": "247 . \t\tComplete: to be scared ….",
+    "answer": "of"
+  },
+  {
+    "q": "248 . \t\tComplete: to be satisfied ….",
+    "answer": "with"
+  },
+  {
+    "q": "249 . \t\tComplete: to be fond ….",
+    "answer": "of"
+  },
+  {
+    "q": "250 . \t\tComplete: to be crazy …",
+    "answer": "about"
+  },
+  {
+    "q": "251 . \t\tFill in the gap: Our students are interested …. computer engineering.",
+    "answer": "in"
+  },
+  {
+    "q": "252 . \t\tFill in the gap: My close friend is good …. computer engineering.",
+    "answer": "at"
+  },
+  {
+    "q": "253 . \t\tFill in the gap: He is responsible …. this computer.",
+    "answer": "for"
+  },
+  {
+    "q": "254 . \t\tFill in the gap: We aren`t afraid …. exams.",
+    "answer": "of"
+  },
+  {
+    "q": "255 . \t\tFill in the gap: She was scared …. wild animals.",
+    "answer": "of"
+  },
+  {
+    "q": "256 . \t\tFill in the gap: This student is satisfied …. our lessons.",
+    "answer": "with"
+  },
+  {
+    "q": "257 . \t\tFill in the gap: He is fond …. computer programs.",
+    "answer": "of"
+  },
+  {
+    "q": "258 . \t\tFill in the gap: We are crazy … computer games.",
+    "answer": "about"
+  },
+  {
+    "q": "259 . \t\tFill in the gap: Lindsay _____ not been to France.",
+    "answer": "has"
+  },
+  {
+    "q": "260 . \t\tFill in the gap: …. you finished your homework?",
+    "answer": "have"
+  },
+  {
+    "q": "261 . \t\tFill in the gap: They …. gone to a rock concert.",
+    "answer": "'ve  (have )"
+  },
+  {
+    "q": "262 . \t\tFill in the gap: …. you been to Japan?",
+    "answer": "Have"
+  },
+  {
+    "q": "263 . \t\tFill in the gap: We …. never eaten Mexican food.",
+    "answer": "have"
+  },
+  {
+    "q": "264 . \t\tFill in the gap: Andrea has …. her umbrella.",
+    "answer": "Forget -  forgot -forgotten"
+  },
+  {
+    "q": "265 . \t\tFill in the gap: The children …. the lost puppy.",
+    "answer": "have found"
+  },
+  {
+    "q": "266 . \t\tFill in the gap: He …. his work. Why don`t we invite him out?",
+    "answer": "has finished"
+  },
+  {
+    "q": "267 . \t\tFill in the gap: I …. a computer since I was three.",
+    "answer": "have had"
+  },
+  {
+    "q": "268 . \t\tFill in the gap: Oxford University Press …. thousands of books.",
+    "answer": "has published"
+  },
+  {
+    "q": "269 . \t\tFill in the gap: We …. to France recently.",
+    "answer": "have moved"
+  },
+  {
+    "q": "270 . \t\tFill in the gap: What a pity! Ted …. his tennis racket.",
+    "answer": "has broken"
+  },
+  {
+    "q": "271 . \t\tFill in the gap: They …. for the exams yet.",
+    "answer": "haven't prepared"
+  },
+  {
+    "q": "272 . \t\tFill in the gap: She …. a job yet.",
+    "answer": "hasn't found"
+  },
+  {
+    "q": "273 . \t\tFill in the gap: Tom and I …. friends since childhood.",
+    "answer": "have been"
+  },
+  {
+    "q": "274 . \t\tFill in the gap: …. your sister with the washing–up?",
+    "answer": "have you help"
+  },
+  {
+    "q": "275 . \t\tFill in the gap: I …. part in marathons.",
+    "answer": "Have never taken"
+  },
+  {
+    "q": "276 . \t\tFill in the gap: Why …. so sad recently?",
+    "answer": "has  he been"
+  },
+  {
+    "q": "277 . \t\tFill in the gap: My wife …. invitations for the party.",
+    "answer": "Has already sent"
+  },
+  {
+    "q": "278 . \t\tFill in the gap: Nick .... a live football match before.",
+    "answer": "Has never seen"
+  },
+  {
+    "q": "279 . \t\tFill in the gap: Brian …. his new project yet.",
+    "answer": "Hasn’t  started"
+  },
+  {
+    "q": "280 . \t\tFill in the gap: We …. some furniture for our new flat.",
+    "answer": "Have already choose"
+  },
+  {
+    "q": "281 . \t\tFill in the gap: He …. his computer yet.",
+    "answer": "Hasn’t  sold"
+  },
+  {
+    "q": "282 . \t\tFill in the gap: Look! The car …. into the wall.",
+    "answer": "Has just crashed"
+  },
+  {
+    "q": "283 . \t\tFill in the gap: Sean …. his sister in the last few days.",
+    "answer": "Hasn’t seen"
+  },
+  {
+    "q": "284 . \t\tFill in the gap: …. the lottery?",
+    "answer": "Have you  ever win"
+  },
+  {
+    "q": "285 . \t\tFill in the gap: Where is your purse? I …. it.",
+    "answer": "Have lost"
+  },
+  {
+    "q": "286 . \t\tFill in the gap: Are you going anywhere this summer? Yes, we …. a trip to Italy.",
+    "answer": "Have broked"
+  },
+  {
+    "q": "287 . \t\tFill in the gap: Do we need any tomatoes? No, I …. some.",
+    "answer": "Have already bought"
+  },
+  {
+    "q": "288 . \t\tFill in the gap: The students …. their essays.",
+    "answer": "Have just comleted"
+  },
+  {
+    "q": "289 . \t\tFill in the gap: Somebody …. our car last Sunday.",
+    "answer": "stole"
+  },
+  {
+    "q": "290 . \t\tFill in the gap: I …. this college since September.",
+    "answer": "Have attended"
+  },
+  {
+    "q": "291 . \t\tFill in the gap: He …. a good education in London three years ago.",
+    "answer": "received"
+  },
+  {
+    "q": "292 . \t\tFill in the gap: My parents …. to Germany in 2005.",
+    "answer": "moved"
+  },
+  {
+    "q": "293 . \t\tChoose the answer with a similar meaning: cable",
+    "answer": "connector"
+  },
+  {
+    "q": "294 . \t\tChoose the answer with a similar meaning: plug into",
+    "answer": "put into"
+  },
+  {
+    "q": "295 . \t\tChoose the answer with a similar meaning: electricity socket",
+    "answer": "power socket"
+  },
+  {
+    "q": "296 . \t\tChoose the answer with a similar meaning: disconnect",
+    "answer": "unplug"
+  },
+  {
+    "q": "297 . \t\tChoose the answer with a similar meaning: start again",
+    "answer": "restart"
+  },
+  {
+    "q": "298 . \t\tChoose the answer with a similar meaning: split a hard drive into parts",
+    "answer": "partition"
+  },
+  {
+    "q": "299 . \t\tChoose the answer with a similar meaning: copy data to another place",
+    "answer": "back up"
+  },
+  {
+    "q": "300 . \t\tChoose the answer with a similar meaning: rules about how you can use software",
+    "answer": "license terms"
+  },
+  {
+    "q": "301 . \t\tChoose the correct translation: proqram təminatçıları",
+    "answer": "Software vendors"
+  },
+  {
+    "q": "302 . \t\tChoose the correct translation: proqram yeniləmələri",
+    "answer": "software updates"
+  },
+  {
+    "q": "303 . \t\tChoose the correct translation: özəl proqram təminatı",
+    "answer": "proprietary software"
+  },
+  {
+    "q": "304 . \t\tChoose the correct translation: reklam şirkəti",
+    "answer": "advertising company"
+  },
+  {
+    "q": "305 . \t\tChoose the correct translation: əvəz etmək",
+    "answer": "replace"
+  },
+  {
+    "q": "306 . \t\tChoose the correct translation: idarə heyət",
+    "answer": "Administration staff"
+  },
+  {
+    "q": "307 . \t\tChoose the correct translation: həll",
+    "answer": "solution"
+  },
+  {
+    "q": "308 . \t\tChoose the correct translation: şəkilləri yükləmək",
+    "answer": "load images"
+  },
+  {
+    "q": "309 . \t\tChoose the correct translation: hesablama cihazı",
+    "answer": "computing device"
+  },
+  {
+    "q": "310 . \t\tChoose the correct translation: təhlükəsiz",
+    "answer": "secure"
+  },
+  {
+    "q": "311 . \t\tChoose the correct translation: ümumi istifadə",
+    "answer": "common use"
+  },
+  {
+    "q": "312 . \t\tChoose the correct translation: mərkəzi server",
+    "answer": "central server"
+  },
+  {
+    "q": "313 . \t\tFind the appropriate answer: download ….",
+    "answer": "video"
+  },
+  {
+    "q": "314 . \t\tFind the appropriate answer: take part in ….",
+    "answer": "A webinar"
+  },
+  {
+    "q": "315 . \t\tTranslate: nöqtə",
+    "answer": "Dot"
+  },
+  {
+    "q": "316 . \t\tTranslate: axtarış, araşdırma",
+    "answer": "search"
+  },
+  {
+    "q": "317 . \t\tFind the appropriate translation: təhlükəsizlik xüsusiyyətləri",
+    "answer": "security feature"
+  },
+  {
+    "q": "318 . \t\tFind the appropriate translation: simli şəbəkə",
+    "answer": "wired network"
+  },
+  {
+    "q": "319 . \t\tFind the appropriate translation: simsiz şəbəkə",
+    "answer": "wireless network"
+  },
+  {
+    "q": "320 . \t\tFill in the gap: The Internet is a network …. covers the world.",
+    "answer": "which"
+  },
+  {
+    "q": "321 . \t\tFill in the gap: A technician is a person …. repairs computers.",
+    "answer": "who"
+  },
+  {
+    "q": "322 . \t\tChoose the correct sentence: If you …. a tablet, it …. .",
+    "answer": "drop breaks"
+  },
+  {
+    "q": "323 . \t\tChoose the correct sentence: If we …. a problem, we …. a message.",
+    "answer": "Have, shall send"
+  },
+  {
+    "q": "324 . \t\tChoose the correct sentence: We …. money if we …. tablets.",
+    "answer": "Shall save buy"
+  },
+  {
+    "q": "325 . \t\tTranslate: faydalı",
+    "answer": "useful"
+  },
+  {
+    "q": "326 . \t\tTranslate: texnologiya",
+    "answer": "techology"
+  },
+  {
+    "q": "327 . \t\tTranslate: sorğu",
+    "answer": "enquiry"
+  },
+  {
+    "q": "328 . \t\tTranslate: düsturlar",
+    "answer": "formular"
+  },
+  {
+    "q": "329 . \t\tTranslate: səhv, xata",
+    "answer": "error"
+  },
+  {
+    "q": "330 . \t\tTranslate: səhv etmək",
+    "answer": "misspell"
+  },
+  {
+    "q": "331 . \t\tComplete: part of a laptop computer used instead of a mouse for moving the cursor is ….",
+    "answer": "touchpad"
+  },
+  {
+    "q": "332 . \t\tComplete: a device that shows a copy of the computer`s screen on a large screen is ….",
+    "answer": "projector"
+  },
+  {
+    "q": "333 . \t\tComplete: a device people wear on their heads that includes a microphone is ….",
+    "answer": "headset"
+  },
+  {
+    "q": "334 . \t\tFill in the gap: Servers are …. than tablets.",
+    "answer": "More expensive"
+  },
+  {
+    "q": "335 . \t\tFill in the gap: Laptops are …. than servers.",
+    "answer": "Less expensive"
+  },
+  {
+    "q": "336 . \t\tTranslate: Çatdırılma ünvanı",
+    "answer": "delivery address"
+  },
+  {
+    "q": "337 . \t\tTranslate: şifrələmə",
+    "answer": "encryption"
+  },
+  {
+    "q": "338 . \t\tTranslate: yerli iştirakçı",
+    "answer": "local participant"
+  },
+  {
+    "q": "339 . \t\tFill in the gap: I …..  this movie on the weekdays.",
+    "answer": "watch"
+  },
+  {
+    "q": "340 . \t\tFill in the gap: They seldom …… TV.",
+    "answer": "watch"
+  },
+  {
+    "q": "341 . \t\tFill in the gap: She … because she couldn`t find her dog.",
+    "answer": "Was crying"
+  },
+  {
+    "q": "342 . \t\tChoose the correct tense form: She never….me",
+    "answer": "understands"
+  },
+  {
+    "q": "343 . \t\tChoose the correct tense form: Laura….of her brother",
+    "answer": "takes care"
+  },
+  {
+    "q": "344 . \t\tChoose the correct tense form: She always….me new things",
+    "answer": "teaches"
+  },
+  {
+    "q": "345 . \t\tChoose the correct variant: Daniel often….coffee in the morning",
+    "answer": "drinks"
+  },
+  {
+    "q": "346 . \t\tChoose the correct variant: This computer....properly",
+    "answer": "does not work"
+  },
+  {
+    "q": "347 . \t\tChoose the correct variant: She….TV when the murder happened",
+    "answer": "was not watching"
+  },
+  {
+    "q": "348 . \t\tChoose the correct variant: It….when we left home",
+    "answer": "was raining"
+  },
+  {
+    "q": "349 . \t\tChoose the correct variant: We….outside when mother came",
+    "answer": "were playing"
+  },
+  {
+    "q": "350 . \t\tChoose the correct variant: I…and…at the same time",
+    "answer": "was cooking ,watching"
+  },
+  {
+    "q": "351 . \t\tChoose the correct variant: What…when I called you?",
+    "answer": "Were you doing"
+  },
+  {
+    "q": "352 . \t\tWhich of the following is “not” a peripheral device?",
+    "answer": "CPU"
+  },
+  {
+    "q": "353 . \t\tWhich of the following is a peripheral device?",
+    "answer": "microphone"
+  },
+  {
+    "q": "354 . \t\tMinimize button is used to…",
+    "answer": "minimize the application"
+  },
+  {
+    "q": "355 . \t\tMaximize button is used to….",
+    "answer": "Maximize the application"
+  },
+  {
+    "q": "356 . \t\tChoose the correct variant: Did you see…I gave you?",
+    "answer": "what"
+  },
+  {
+    "q": "357 . \t\tChoose the correct variant: Mrs. Jane….had been fired, had crucial mistakes.",
+    "answer": "who"
+  },
+  {
+    "q": "358 . \t\tChoose the correct variant: She was looking for the place….she was born",
+    "answer": "where"
+  },
+  {
+    "q": "359 . \t\tHe visits his grandfather….lives in countryside every summer.",
+    "answer": "who"
+  },
+  {
+    "q": "360 . \t\tThe table….we bought last week has broken down",
+    "answer": "that"
+  },
+  {
+    "q": "361 . \t\tThe presentation was introduced by….girl in the class",
+    "answer": "the most beautiful"
+  },
+  {
+    "q": "362 . \t\tTv series are….than films",
+    "answer": "more interesting"
+  },
+  {
+    "q": "363 . \t\tThe weather is….today than it was yesterday",
+    "answer": "better"
+  },
+  {
+    "q": "364 . \t\tYour team is….than their team",
+    "answer": "worse"
+  },
+  {
+    "q": "365 . \t\tI am….than my sister",
+    "answer": "taller"
+  },
+  {
+    "q": "366 . \t\tThis street is ……than the other street",
+    "answer": "longer"
+  },
+  {
+    "q": "367 . \t\tThis is……. play I have ever seen",
+    "answer": "the best"
+  },
+  {
+    "q": "368 . \t\tServers are ………. than tablets",
+    "answer": "more expensive"
+  },
+  {
+    "q": "369 . \t\tThe Premier server’s processor is……... of the three",
+    "answer": "the most powerful"
+  },
+  {
+    "q": "370 . \t\tDedicated hosting is ……... than shared hosting",
+    "answer": "more secure"
+  },
+  {
+    "q": "371 . \t\tThe Superior plan gives you ……… than the Basic plan",
+    "answer": "more bandwidth"
+  },
+  {
+    "q": "372 . \t\tThe Sun is …… to the Earth than other stars",
+    "answer": "much nearer"
+  },
+  {
+    "q": "373 . \t\tYour last composition is ……… than your first one",
+    "answer": "worse"
+  },
+  {
+    "q": "374 . \t\tI think you ………. speak to him seriously",
+    "answer": "have to"
+  },
+  {
+    "q": "375 . \t\tPasswords………. be at least eight characters long",
+    "answer": "must"
+  },
+  {
+    "q": "376 . \t\tWhat do you …… to learn by heart?",
+    "answer": "have"
+  },
+  {
+    "q": "377 . \t\tYou have walked for ten hours. You ______ exhausted.",
+    "answer": "Musn’t (must)"
+  },
+  {
+    "q": "378 . \t\tYou ……… smoke so much",
+    "answer": "musn’t"
+  },
+  {
+    "q": "379 . \t\tHe answered that he……. come to the party",
+    "answer": "couldn’t"
+  },
+  {
+    "q": "380 . \t\tWe don`t have much time. We ………… hurry",
+    "answer": "must"
+  },
+  {
+    "q": "381 . \t\tI tried to get up but I ……... move",
+    "answer": "couldn’t"
+  },
+  {
+    "q": "382 . \t\tIf she comes, I _____ call you.",
+    "answer": "will"
+  },
+  {
+    "q": "383 . \t\tIf I ……. (be) you, I ………... get a new job",
+    "answer": "were ,would"
+  },
+  {
+    "q": "384 . \t\tIf we ……… (win) the lottery, we ……… travel the world",
+    "answer": "Won, would"
+  },
+  {
+    "q": "385 . \t\tShe is the person ……... looks after the network",
+    "answer": "who"
+  },
+  {
+    "q": "386 . \t\tIt`s a chip ……… controls a computer",
+    "answer": "which"
+  },
+  {
+    "q": "387 . \t\tHe wanted to know ……… they had put the documents",
+    "answer": "where"
+  },
+  {
+    "q": "388 . \t\tHe visited his parents …….. lived abroad",
+    "answer": "who"
+  },
+  {
+    "q": "389 . \t\tChoose the correct conjunctive words:  Can you tell me ……. makes you feel upset. 1.What; 2. Why; 3. Who; 4. How",
+    "answer": "1,3"
+  },
+  {
+    "q": "390 . \t\tI don`t know that woman ……... you are talking about",
+    "answer": "who"
+  }
+]
