@@ -31,16 +31,22 @@ function askStartScore() {
   return true;
 }
 
-function getQuestions() {
-  return JSON.parse(localStorage.getItem("questions") || "[]");
+const QUESTIONS_URL =
+"https://nureli001.github.io/CrasherExam/questions.json";
+
+async function getQuestions() {
+  const res = await fetch(QUESTIONS_URL);
+  return await res.json();
 }
 
 function shuffle(a){return a.sort(()=>Math.random()-0.5);}
 
-function start() {
+async function start() {
+
   if (!askStartScore()) return;
 
-  let questions = getQuestions();
+  let questions = await getQuestions();
+  
   if (questions.length === 0) {
     document.getElementById("quiz").innerHTML = "Soru yok.";
     return;
@@ -110,3 +116,4 @@ start();
 </script>
 </body>
 </html>
+
