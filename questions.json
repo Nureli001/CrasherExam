@@ -1,7 +1,7 @@
 [
   {
     "q": "Choose the correct answer: CU",
-    "options": { "A": "Control unit", "B": "Common Unit", "C": "Central Unit", "D": "Computing Unit" },
+    "options": { "D": "Control unit", "B": "Common Unit", "C": "Central Unit", "A": "Computing Unit" },
     "correct": "A"
   },
   {
@@ -16,13 +16,13 @@
   },
   {
     "q": "What does “ASCI” stand for?",
-    "options": { "A": "american standards code for information interchange", "B": "Advanced system code", "C": "American serial code", "D": "Associated standards" },
-    "correct": "A"
+    "options": { "C": "american standards code for information interchange", "B": "Advanced system code", "A": "American serial code", "D": "Associated standards" },
+    "correct": "C"
   },
   {
     "q": "Choose the correct answer: AT",
-    "options": { "A": "Advanced technology", "B": "Automatic transfer", "C": "Analog transmission", "D": "Access terminal" },
-    "correct": "A"
+    "options": { "B": "Advanced technology", "A": "Automatic transfer", "C": "Analog transmission", "D": "Access terminal" },
+    "correct": "B"
   },
   {
     "q": "What does “IT” stand for?",
@@ -56,13 +56,13 @@
   },
   {
     "q": "What does “CGA” stand for?",
-    "options": { "A": "Colour Graphics Adapter", "B": "Common Graphics Adapter", "C": "Computer Graphics Array", "D": "Central Graphic Access" },
-    "correct": "A"
+    "options": { "D": "Colour Graphics Adapter", "B": "Common Graphics Adapter", "C": "Computer Graphics Array", "A": "Central Graphic Access" },
+    "correct": "D"
   },
   {
     "q": "What does “DNS” stand for?",
-    "options": { "A": "Domain Name Server", "B": "Data Network Service", "C": "Digital Name System", "D": "Device Network Serial" },
-    "correct": "A"
+    "options": { "B": "Domain Name Server", "A": "Data Network Service", "C": "Digital Name System", "D": "Device Network Serial" },
+    "correct": "B"
   },
   {
     "q": "What does “FAT” stand for?",
@@ -76,18 +76,18 @@
   },
   {
     "q": "What does “FTP” stand for?",
-    "options": { "A": "file transfer protocol", "B": "Fast transfer protocol", "C": "Format type process", "D": "File transport path" },
-    "correct": "A"
+    "options": { "C": "file transfer protocol", "B": "Fast transfer protocol", "A": "Format type process", "D": "File transport path" },
+    "correct": "C"
   },
   {
     "q": "What does “GIF” stand for?",
-    "options": { "A": "graphics interchange format", "B": "Global image file", "C": "General index file", "D": "Graphics input folder" },
-    "correct": "A"
+    "options": { "D": "graphics interchange format", "B": "Global image file", "C": "General index file", "A": "Graphics input folder" },
+    "correct": "D"
   },
   {
     "q": "What does “IP” stand for?",
-    "options": { "A": "internet protocol", "B": "Internal process", "C": "Information path", "D": "Interface program" },
-    "correct": "A"
+    "options": { "B": "internet protocol", "A": "Internal process", "C": "Information path", "D": "Interface program" },
+    "correct": "B"
   },
   {
     "q": "What does “MPC” stand for?",
@@ -96,8 +96,8 @@
   },
   {
     "q": "What is “pixel”?",
-    "options": { "A": "the smallest element on the screen", "B": "A type of storage device", "C": "A high-speed internet cable", "D": "The main unit of the CPU" },
-    "correct": "A"
+    "options": { "B": "the smallest element on the screen", "A": "A type of storage device", "C": "A high-speed internet cable", "D": "The main unit of the CPU" },
+    "correct": "B"
   },
   {
     "q": "What does “HDD” stand for?",
@@ -106,13 +106,13 @@
   },
   {
     "q": "What does “UPS” stand for?",
-    "options": { "A": "Uninterruptable Power Supply", "B": "Universal Power Source", "C": "United Parcel Service", "D": "Unit Power System" },
-    "correct": "A"
+    "options": { "C": "Uninterruptable Power Supply", "B": "Universal Power Source", "A": "United Parcel Service", "D": "Unit Power System" },
+    "correct": "C"
   },
   {
     "q": "Kəsilməz Qida Bloku nədir?",
-    "options": { "A": "Uninterruptable power supply", "B": "Universal power system", "C": "Under power source", "D": "Unit power supply" },
-    "correct": "A"
+    "options": { "B": "Uninterruptable power supply", "A": "Universal power system", "C": "Under power source", "D": "Unit power supply" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: heyət",
@@ -126,8 +126,8 @@
   },
   {
     "q": "Find the appropriate translation: fərdi kompyuterlər",
-    "options": { "A": "Personal computers", "B": "Public computers", "C": "Professional computers", "D": "Portable computers" },
-    "correct": "A"
+    "options": { "D": "Personal computers", "B": "Public computers", "C": "Professional computers", "A": "Portable computers" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: emal etmək",
@@ -136,13 +136,13 @@
   },
   {
     "q": "Find the appropriate translation: daxil etmə qurğuları",
-    "options": { "A": "Input devices", "B": "Output devices", "C": "Storage devices", "D": "External devices" },
-    "correct": "A"
+    "options": { "D": "Input devices", "B": "Output devices", "C": "Storage devices", "A": "External devices" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: xaric etmə qurğuları",
-    "options": { "A": "Output devices", "B": "Input devices", "C": "Internal devices", "D": "System devices" },
-    "correct": "A"
+    "options": { "C": "Output devices", "B": "Input devices", "A": "Internal devices", "D": "System devices" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: yaddaş qurğusu",
@@ -151,13 +151,13 @@
   },
   {
     "q": "Find the appropriate translation: əməliyyat sistemi",
-    "options": { "A": "operating system", "B": "Operation system", "C": "Optional system", "D": "Output system" },
-    "correct": "A"
+    "options": { "B": "operating system", "A": "Operation system", "C": "Optional system", "D": "Output system" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: məlumatın ötürülməsi",
-    "options": { "A": "data transmission", "B": "Data processing", "C": "Data storage", "D": "Data analysis" },
-    "correct": "A"
+    "options": { "D": "data transmission", "B": "Data processing", "C": "Data storage", "A": "Data analysis" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: simsiz rabitə",
@@ -171,8 +171,8 @@
   },
   {
     "q": "Find the appropriate translation: xarici yaddaş qurğuları",
-    "options": { "A": "external storage devices", "B": "Internal storage devices", "C": "Primary memory units", "D": "System memory" },
-    "correct": "A"
+    "options": { "B": "external storage devices", "A": "Internal storage devices", "C": "Primary memory units", "D": "System memory" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: sənədlərin surətini çıxarmaq",
@@ -181,8 +181,8 @@
   },
   {
     "q": "Find the appropriate translation: mərkəzi prosessor",
-    "options": { "A": "central processor", "B": "Main processor", "C": "System processor", "D": "Internal processor" },
-    "correct": "A"
+    "options": { "C": "central processor", "B": "Main processor", "A": "System processor", "D": "Internal processor" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: mətn prosessoru",
@@ -191,8 +191,8 @@
   },
   {
     "q": "Find the appropriate translation: verilənlər bazası",
-    "options": { "A": "database", "B": "Data bank", "C": "Data storage", "D": "Data file" },
-    "correct": "A"
+    "options": { "D": "database", "B": "Data bank", "C": "Data storage", "A": "Data file" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: lokal şəbəkə",
@@ -201,8 +201,8 @@
   },
   {
     "q": "Find the appropriate translation: idarəetmə paneli",
-    "options": { "A": "control panel", "B": "System panel", "C": "Main panel", "D": "Dashboard" },
-    "correct": "A"
+    "options": { "B": "control panel", "A": "System panel", "C": "Main panel", "D": "Dashboard" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: giriş çıxış qurğuları",
@@ -211,8 +211,8 @@
   },
   {
     "q": "Find the appropriate translation: ana lövhə",
-    "options": { "A": "motherboard", "B": "Sound card", "C": "Video card", "D": "Hard drive" },
-    "correct": "A"
+    "options": { "D": "motherboard", "B": "Sound card", "C": "Video card", "A": "Hard drive" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: sərt disk",
@@ -221,8 +221,8 @@
   },
   {
     "q": "Find the appropriate translation: əməli yaddaş qurğusu",
-    "options": { "A": "random access memory", "B": "Read only memory", "C": "Flash memory", "D": "Virtual memory" },
-    "correct": "A"
+    "options": { "B": "random access memory", "A": "Read only memory", "C": "Flash memory", "D": "Virtual memory" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: disk sürücüsü",
@@ -236,8 +236,8 @@
   },
   {
     "q": "Find the appropriate translation: istifadəçi interfeysi",
-    "options": { "A": "user interface", "B": "System interface", "C": "Graphic interface", "D": "Network interface" },
-    "correct": "A"
+    "options": { "D": "user interface", "B": "System interface", "C": "Graphic interface", "A": "Network interface" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: əmr sətiri",
@@ -246,8 +246,8 @@
   },
   {
     "q": "Find the appropriate translation: tətbiqi proqramlar",
-    "options": { "A": "application programs", "B": "System programs", "C": "Utility programs", "D": "Driver programs" },
-    "correct": "A"
+    "options": { "C": "application programs", "B": "System programs", "A": "Utility programs", "D": "Driver programs" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: səs kartı",
@@ -256,13 +256,13 @@
   },
   {
     "q": "Find the appropriate translation: ekranın ölçüsü",
-    "options": { "A": "screen size", "B": "Resolution", "C": "Brightness", "D": "Color depth" },
-    "correct": "A"
+    "options": { "D": "screen size", "B": "Resolution", "C": "Brightness", "A": "Color depth" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: elektron poçt",
-    "options": { "A": "e-mail", "B": "E-news", "C": "E-commerce", "D": "E-business" },
-    "correct": "A"
+    "options": { "B": "e-mail", "A": "E-news", "C": "E-commerce", "D": "E-business" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: qoşma fayl",
@@ -276,13 +276,13 @@
   },
   {
     "q": "Find the appropriate translation: veb brauzer",
-    "options": { "A": "web browser", "B": "Web site", "C": "Web server", "D": "Web mail" },
-    "correct": "A"
+    "options": { "C": "web browser", "B": "Web site", "A": "Web server", "D": "Web mail" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: yükləmək (internetdən)",
-    "options": { "A": "to download", "B": "To upload", "C": "To install", "D": "To refresh" },
-    "correct": "A"
+    "options": { "D": "to download", "B": "To upload", "C": "To install", "A": "To refresh" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: yükləmək (internetə)",
@@ -296,8 +296,8 @@
   },
   {
     "q": "Find the appropriate translation: faylı sıxmaq",
-    "options": { "A": "to compress a file", "B": "To delete a file", "C": "To rename a file", "D": "To expand a file" },
-    "correct": "A"
+    "options": { "B": "to compress a file", "A": "To delete a file", "C": "To rename a file", "D": "To expand a file" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: şifrəni daxil etmək",
@@ -306,18 +306,18 @@
   },
   {
     "q": "Find the appropriate translation: təchizatçı",
-    "options": { "A": "supplier", "B": "Client", "C": "Customer", "D": "Manager" },
-    "correct": "A"
+    "options": { "C": "supplier", "B": "Client", "A": "Customer", "D": "Manager" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: əməkdaşlıq etmək",
-    "options": { "A": "to cooperate", "B": "To compete", "C": "To communicate", "D": "To control" },
-    "correct": "A"
+    "options": { "B": "to cooperate", "A": "To compete", "C": "To communicate", "D": "To control" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: rəqabət aparmaq",
-    "options": { "A": "to compete", "B": "To complete", "C": "To cooperate", "D": "To collect" },
-    "correct": "A"
+    "options": { "D": "to compete", "B": "To complete", "C": "To cooperate", "A": "To collect" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: ticarət markası",
@@ -331,8 +331,8 @@
   },
   {
     "q": "Find the appropriate translation: xidmət səviyyəsi",
-    "options": { "A": "service level", "B": "Product quality", "C": "System speed", "D": "Network range" },
-    "correct": "A"
+    "options": { "C": "service level", "B": "Product quality", "A": "System speed", "D": "Network range" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: səhmlərin qiyməti",
@@ -346,8 +346,8 @@
   },
   {
     "q": "Find the appropriate translation: rəqəmsal iqtisadiyyat",
-    "options": { "A": "digital economy", "B": "Electronic business", "C": "Modern finance", "D": "Global market" },
-    "correct": "A"
+    "options": { "D": "digital economy", "B": "Electronic business", "C": "Modern finance", "A": "Global market" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: layihə rəhbəri",
@@ -356,8 +356,8 @@
   },
   {
     "q": "Find the appropriate translation: mənfəət və zərər",
-    "options": { "A": "profit and loss", "B": "Income and tax", "C": "Asset and liability", "D": "Buy and sell" },
-    "correct": "A"
+    "options": { "B": "profit and loss", "A": "Income and tax", "C": "Asset and liability", "D": "Buy and sell" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: investisiya qoymaq",
@@ -366,13 +366,13 @@
   },
   {
     "q": "Find the appropriate translation: illik hesabat",
-    "options": { "A": "annual report", "B": "Weekly report", "C": "Monthly statement", "D": "Final data" },
-    "correct": "A"
+    "options": { "D": "annual report", "B": "Weekly report", "C": "Monthly statement", "A": "Final data" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: maliyyə vəziyyəti",
-    "options": { "A": "financial status", "B": "Economic growth", "C": "Bank account", "D": "Market share" },
-    "correct": "A"
+    "options": { "B": "financial status", "A": "Economic growth", "C": "Bank account", "D": "Market share" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: ticarət balansı",
@@ -386,8 +386,8 @@
   },
   {
     "q": "Find the appropriate translation: gəlir əldə etmək",
-    "options": { "A": "to make a profit", "B": "To lose money", "C": "To pay tax", "D": "To spend" },
-    "correct": "A"
+    "options": { "C": "to make a profit", "B": "To lose money", "A": "To pay tax", "D": "To spend" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: bazar araşdırması",
@@ -396,8 +396,8 @@
   },
   {
     "q": "Find the appropriate translation: məhsuldarlıq",
-    "options": { "A": "productivity", "B": "Probability", "C": "Property", "D": "Priority" },
-    "correct": "A"
+    "options": { "B": "productivity", "A": "Probability", "C": "Property", "D": "Priority" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: rəqabətədavamlı",
@@ -411,8 +411,8 @@
   },
   {
     "q": "Find the appropriate translation: vergi ödəmək",
-    "options": { "A": "to pay taxes", "B": "To get a loan", "C": "To save money", "D": "To invest" },
-    "correct": "A"
+    "options": { "B": "to pay taxes", "A": "To get a loan", "C": "To save money", "D": "To invest" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: işsizlik səviyyəsi",
@@ -421,8 +421,8 @@
   },
   {
     "q": "Find the appropriate translation: strateji planlaşdırma",
-    "options": { "A": "strategic planning", "B": "Daily routine", "C": "Financial report", "D": "Data analysis" },
-    "correct": "A"
+    "options": { "D": "strategic planning", "B": "Daily routine", "C": "Financial report", "A": "Data analysis" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: xarici ticarət",
@@ -436,8 +436,8 @@
   },
   {
     "q": "Find the appropriate translation: iqtisadi böhran",
-    "options": { "A": "economic crisis", "B": "Market growth", "C": "Financial stability", "D": "Price increase" },
-    "correct": "A"
+    "options": { "C": "economic crisis", "B": "Market growth", "A": "Financial stability", "D": "Price increase" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: müəllif hüququ",
@@ -456,8 +456,8 @@
   },
   {
     "q": "Find the appropriate translation: daimi yaddaş",
-    "options": { "A": "permanent memory", "B": "Virtual memory", "C": "Cache memory", "D": "Flash memory" },
-    "correct": "A"
+    "options": { "B": "permanent memory", "A": "Virtual memory", "C": "Cache memory", "D": "Flash memory" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: məsafədən idarəetmə",
@@ -466,8 +466,8 @@
   },
   {
     "q": "Find the appropriate translation: fərdi inkişaf",
-    "options": { "A": "personal development", "B": "Team work", "C": "Career growth", "D": "Skill set" },
-    "correct": "A"
+    "options": { "C": "personal development", "B": "Team work", "A": "Career growth", "D": "Skill set" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: xərc və gəlir",
@@ -481,8 +481,8 @@
   },
   {
     "q": "Find the appropriate translation: virtual reallıq",
-    "options": { "A": "virtual reality", "B": "Mixed reality", "C": "Augmented reality", "D": "Cyber space" },
-    "correct": "A"
+    "options": { "B": "virtual reality", "A": "Mixed reality", "C": "Augmented reality", "D": "Cyber space" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: bulud texnologiyaları",
@@ -496,8 +496,8 @@
   },
   {
     "q": "Find the appropriate translation: logistika",
-    "options": { "A": "logistics", "B": "Logic", "C": "Location", "D": "Long term" },
-    "correct": "A"
+    "options": { "D": "logistics", "B": "Logic", "C": "Location", "A": "Long term" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: sənəd dövriyyəsi",
@@ -506,8 +506,8 @@
   },
   {
     "q": "Find the appropriate translation: elektron ticarət",
-    "options": { "A": "e-commerce", "B": "E-business", "C": "E-mail", "D": "E-trade" },
-    "correct": "A"
+    "options": { "C": "e-commerce", "B": "E-business", "A": "E-mail", "D": "E-trade" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: kiber hücum",
@@ -516,8 +516,8 @@
   },
   {
     "q": "Find the appropriate translation: əməliyyat xərcləri",
-    "options": { "A": "operating expenses", "B": "Tax payments", "C": "Salary costs", "D": "Loan interest" },
-    "correct": "A"
+    "options": { "B": "operating expenses", "A": "Tax payments", "C": "Salary costs", "D": "Loan interest" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: maliyyə auditi",
@@ -526,8 +526,8 @@
   },
   {
     "q": "Find the appropriate translation: idarəetmə üsulları",
-    "options": { "A": "management methods", "B": "Work styles", "C": "Team rules", "D": "Office plans" },
-    "correct": "A"
+    "options": { "C": "management methods", "B": "Work styles", "A": "Team rules", "D": "Office plans" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: texniki dəstək",
@@ -541,8 +541,8 @@
   },
   {
     "q": "Find the appropriate translation: iqtisadi artım",
-    "options": { "A": "economic growth", "B": "Market drop", "C": "Price fix", "D": "Debt rise" },
-    "correct": "A"
+    "options": { "D": "economic growth", "B": "Market drop", "C": "Price fix", "A": "Debt rise" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: iş müraciəti",
@@ -551,8 +551,8 @@
   },
   {
     "q": "Find the appropriate translation: müqavilə imzalamaq",
-    "options": { "A": "to sign a contract", "B": "To read a file", "C": "To meet a client", "D": "To pay a bill" },
-    "correct": "A"
+    "options": { "B": "to sign a contract", "B": "To read a file", "C": "To meet a client", "A": "To pay a bill" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: rəqabət üstünlüyü",
@@ -561,13 +561,13 @@
   },
   {
     "q": "Find the appropriate translation: məlumat bazasının idarə edilməsi",
-    "options": { "A": "database management", "B": "Data storage", "C": "File system", "D": "Network plan" },
-    "correct": "A"
+    "options": { "C": "database management", "B": "Data storage", "A": "File system", "D": "Network plan" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: veb dizayn",
-    "options": { "A": "web design", "B": "Graphic art", "C": "Page layout", "D": "Site plan" },
-    "correct": "A"
+    "options": { "C": "web design", "B": "Graphic art", "A": "Page layout", "D": "Site plan" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: proqramlaşdırma dilləri",
@@ -581,8 +581,8 @@
   },
   {
     "q": "Find the appropriate translation: beynəlxalq əlaqələr",
-    "options": { "A": "international relations", "B": "Global trade", "C": "Foreign policy", "D": "Local news" },
-    "correct": "A"
+    "options": { "B": "international relations", "A": "Global trade", "C": "Foreign policy", "D": "Local news" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: büdcə planlaması",
@@ -591,8 +591,8 @@
   },
   {
     "q": "Find the appropriate translation: bazar payı",
-    "options": { "A": "market share", "B": "Product sale", "C": "Price rate", "D": "Stock level" },
-    "correct": "A"
+    "options": { "D": "market share", "B": "Product sale", "C": "Price rate", "A": "Stock level" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: işgüzar ünsiyyət",
@@ -606,13 +606,13 @@
   },
   {
     "q": "Find the appropriate translation: reklam kampaniyası",
-    "options": { "A": "advertising campaign", "B": "Product launch", "C": "Market sale", "D": "Brand name" },
-    "correct": "A"
+    "options": { "B": "advertising campaign", "A": "Product launch", "C": "Market sale", "D": "Brand name" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: fərdi kompyuterlərin təkamülü",
-    "options": { "A": "evolution of personal computers", "B": "Types of computers", "C": "Parts of system", "D": "History of web" },
-    "correct": "A"
+    "options": { "C": "evolution of personal computers", "B": "Types of computers", "A": "Parts of system", "D": "History of web" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: monitorun növləri",
@@ -621,8 +621,8 @@
   },
   {
     "q": "Find the appropriate translation: printerin funksiyaları",
-    "options": { "A": "functions of printer", "B": "Types of paper", "C": "Ink quality", "D": "Print speed" },
-    "correct": "A"
+    "options": { "D": "functions of printer", "B": "Types of paper", "C": "Ink quality", "A": "Print speed" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: internet xidmətləri",
@@ -631,8 +631,8 @@
   },
   {
     "q": "Find the appropriate translation: fərdi kompyuterlərin gələcəyi",
-    "options": { "A": "future of personal computers", "B": "New tech", "C": "Modern systems", "D": "Digital era" },
-    "correct": "A"
+    "options": { "B": "future of personal computers", "A": "New tech", "C": "Modern systems", "D": "Digital era" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: sistem administratoru",
@@ -641,8 +641,8 @@
   },
   {
     "q": "Find the appropriate translation: tətbiqi proqram təminatı",
-    "options": { "A": "application software", "B": "System tools", "C": "Utility files", "D": "OS settings" },
-    "correct": "A"
+    "options": { "C": "application software", "B": "System tools", "A": "Utility files", "D": "OS settings" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: proqram paketləri",
@@ -650,13 +650,13 @@
     "correct": "A"
   },{
     "q": "Find the appropriate translation: verilənlər bazasının strukturu",
-    "options": { "A": "database structure", "B": "Data plan", "C": "File layout", "D": "System map" },
-    "correct": "A"
+    "options": { "B": "database structure", "A": "Data plan", "C": "File layout", "D": "System map" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: internet protokolu",
-    "options": { "A": "internet protocol", "B": "Web rule", "C": "Network line", "D": "Site link" },
-    "correct": "A"
+    "options": { "C": "internet protocol", "B": "Web rule", "A": "Network line", "D": "Site link" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: domen adı",
@@ -665,13 +665,13 @@
   },
   {
     "q": "Find the appropriate translation: elektron poçt ünvanı",
-    "options": { "A": "e-mail address", "B": "Mail box", "C": "User ID", "D": "Send to" },
-    "correct": "A"
+    "options": { "B": "e-mail address", "A": "Mail box", "C": "User ID", "D": "Send to" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: axtarış meyarları",
-    "options": { "A": "search criteria", "B": "Filter tools", "C": "Key words", "D": "Data types" },
-    "correct": "A"
+    "options": { "C": "search criteria", "B": "Filter tools", "A": "Key words", "D": "Data types" },
+    "correct": "C"
   },
   {
     "q": "Find the appropriate translation: kompyuter virusları",
@@ -680,13 +680,13 @@
   },
   {
     "q": "Find the appropriate translation: antivirus proqramları",
-    "options": { "A": "antivirus programs", "B": "Security tools", "C": "System shields", "D": "Clean apps" },
-    "correct": "A"
+    "options": { "D": "antivirus programs", "B": "Security tools", "C": "System shields", "A": "Clean apps" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: şəbəkə avadanlıqları",
-    "options": { "A": "network equipment", "B": "Server tools", "C": "System parts", "D": "Data hardware" },
-    "correct": "A"
+    "options": { "D": "network equipment", "B": "Server tools", "C": "System parts", "A": "Data hardware" },
+    "correct": "D"
   },
   {
     "q": "Find the appropriate translation: əməliyyat sisteminin funksiyaları",
@@ -695,8 +695,8 @@
   },
   {
     "q": "Find the appropriate translation: qovluq və fayllar",
-    "options": { "A": "folders and files", "B": "Data and groups", "C": "System notes", "D": "Disc space" },
-    "correct": "A"
+    "options": { "B": "folders and files", "A": "Data and groups", "C": "System notes", "D": "Disc space" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: faylların idarə edilməsi",
@@ -705,8 +705,8 @@
   },
   {
     "q": "Find the appropriate translation: yerli iştirakçı",
-    "options": { "A": "local participant", "B": "Foreign guest", "C": "Global member", "D": "New staff" },
-    "correct": "A"
+    "options": { "B": "local participant", "A": "Foreign guest", "C": "Global member", "D": "New staff" },
+    "correct": "B"
   },
   {
     "q": "Find the appropriate translation: proqram tərtibatçısı",
@@ -715,8 +715,8 @@
   },
   {
     "q": "You have walked for ten hours. You ______ exhausted.",
-    "options": { "A": "must", "B": "musn't", "C": "can", "D": "should" },
-    "correct": "A"
+    "options": { "D": "must", "B": "musn't", "C": "can", "A": "should" },
+    "correct": "D"
   },
   {
     "q": "You ……… smoke so much",
@@ -725,8 +725,8 @@
   },
   {
     "q": "He answered that he……. come to the party",
-    "options": { "A": "couldn't", "B": "can", "C": "might", "D": "shall" },
-    "correct": "A"
+    "options": { "C": "couldn't", "B": "can", "A": "might", "D": "shall" },
+    "correct": "C"
   },
   {
     "q": "We don`t have much time. We ………… hurry",
@@ -735,13 +735,13 @@
   },
   {
     "q": "I tried to get up but I ……... move",
-    "options": { "A": "couldn’t", "B": "can", "C": "would", "D": "shouldn't" },
-    "correct": "A"
+    "options": { "D": "couldn’t", "B": "can", "C": "would", "A": "shouldn't" },
+    "correct": "D"
   },
   {
     "q": "If she comes, I _____ call you.",
-    "options": { "A": "will", "B": "would", "C": "shall", "D": "am" },
-    "correct": "A"
+    "options": { "C": "will", "B": "would", "A": "shall", "D": "am" },
+    "correct": "C"
   },
   {
     "q": "If I ……. (be) you, I ………... get a new job",
@@ -755,8 +755,8 @@
   },
   {
     "q": "She is the person ……... looks after the network",
-    "options": { "A": "who", "B": "which", "C": "where", "D": "whose" },
-    "correct": "A"
+    "options": { "B": "who", "A": "which", "C": "where", "D": "whose" },
+    "correct": "B"
   },
   {
     "q": "It`s a chip ……... controls a computer",
@@ -770,8 +770,8 @@
   },
   {
     "q": "He visited his parents …….. lived abroad",
-    "options": { "A": "who", "B": "which", "C": "where", "D": "whose" },
-    "correct": "A"
+    "options": { "C": "who", "B": "which", "A": "where", "D": "whose" },
+    "correct": "C"
   },
   {
     "q": "Can you tell me ……. makes you feel upset.",
@@ -780,8 +780,8 @@
   },
   {
     "q": "I don`t know that woman ……... you are talking about",
-    "options": { "A": "who", "B": "which", "C": "where", "D": "what" },
-    "correct": "A"
+    "options": { "D": "who", "B": "which", "C": "where", "A": "what" },
+    "correct": "D"
   },
   {
     "q": "We are crazy ………. computer games.",
@@ -790,18 +790,18 @@
   },
   {
     "q": "Complete the phrase: to be interested ….",
-    "options": { "A": "in", "B": "at", "C": "on", "D": "with" },
-    "correct": "A"
+    "options": { "C": "in", "B": "at", "A": "on", "D": "with" },
+    "correct": "C"
   },
   {
     "q": "Complete the phrase: to be fond ….",
-    "options": { "A": "of", "B": "at", "C": "in", "D": "about" },
-    "correct": "A"
+    "options": { "C": "of", "B": "at", "A": "in", "D": "about" },
+    "correct": "C"
   },
   {
     "q": "Complete the phrase: to be satisfied ….",
-    "options": { "A": "with", "B": "of", "C": "at", "D": "by" },
-    "correct": "A"
+    "options": { "C": "with", "B": "of", "A": "at", "D": "by" },
+    "correct": "C"
   },
   {
     "q": "Complete the phrase: to be proud ….",
@@ -810,8 +810,8 @@
   },
   {
     "q": "Complete the phrase: to be afraid ….",
-    "options": { "A": "of", "B": "from", "C": "with", "D": "at" },
-    "correct": "A"
+    "options": { "B": "of", "A": "from", "C": "with", "D": "at" },
+    "correct": "B"
   },
   {
     "q": "Complete the phrase: to be good ….",
@@ -820,8 +820,8 @@
   },
   {
     "q": "Complete the phrase: to be responsible ….",
-    "options": { "A": "for", "B": "to", "C": "with", "D": "at" },
-    "correct": "A"
+    "options": { "B": "for", "A": "to", "C": "with", "D": "at" },
+    "correct": "B"
   },
   {
     "q": "Complete the phrase: to be bored ….",
@@ -835,28 +835,28 @@
   },
   {
     "q": "Lindsay _____ not been to France.",
-    "options": { "A": "has", "B": "have", "C": "is", "D": "was" },
-    "correct": "A"
+    "options": { "D": "has", "B": "have", "C": "is", "A": "was" },
+    "correct": "D"
   },
   {
     "q": "I …. this college since September.",
-    "options": { "A": "have attended", "B": "am attending", "C": "attend", "D": "attended" },
-    "correct": "A"
+    "options": { "D": "have attended", "B": "am attending", "C": "attend", "A": "attended" },
+    "correct": "D"
   },
   {
     "q": "He …. his computer yet.",
-    "options": { "A": "hasn't fixed", "B": "don't fix", "C": "didn't fix", "D": "isn't fixing" },
-    "correct": "A"
+    "options": { "C": "hasn't fixed", "B": "don't fix", "A": "didn't fix", "D": "isn't fixing" },
+    "correct": "C"
   },
   {
     "q": "She …. here for five years.",
-    "options": { "A": "has worked", "B": "is working", "C": "works", "D": "worked" },
+    "options": { "A": "has worked", "B": "is working", "A": "works", "D": "worked" },
     "correct": "A"
   },
   {
     "q": "I …. him since last week.",
-    "options": { "A": "haven't seen", "B": "didn't see", "C": "don't see", "D": "wasn't seeing" },
-    "correct": "A"
+    "options": { "C": "haven't seen", "B": "didn't see", "A": "don't see", "D": "wasn't seeing" },
+    "correct": "C"
   },
   {
     "q": "Look! The bus ….. .",
@@ -865,23 +865,23 @@
   },
   {
     "q": "She …. to the office every day.",
-    "options": { "A": "goes", "B": "is going", "C": "has gone", "D": "go" },
-    "correct": "A"
+    "options": { "B": "goes", "A": "is going", "C": "has gone", "D": "go" },
+    "correct": "B"
   },
   {
     "q": "If it ….. (rain), we will stay at home.",
-    "options": { "A": "rains", "B": "rain", "C": "rained", "D": "will rain" },
-    "correct": "A"
+    "options": { "B": "rains", "A": "rain", "C": "rained", "D": "will rain" },
+    "correct": "B"
   },
   {
     "q": "If I ….. (have) enough money, I would buy that laptop.",
-    "options": { "A": "had", "B": "have", "C": "has", "D": "will have" },
-    "correct": "A"
+    "options": { "D": "had", "B": "have", "C": "has", "A": "will have" },
+    "correct": "D"
   },
   {
     "q": "We _____ (not/have) any problems so far.",
-    "options": { "A": "haven't had", "B": "don't have", "C": "didn't have", "D": "not had" },
-    "correct": "A"
+    "options": { "C": "haven't had", "B": "don't have", "A": "didn't have", "D": "not had" },
+    "correct": "C"
   },
   {
     "q": "He has been working here …. 2010.",
@@ -895,8 +895,8 @@
   },
   {
     "q": "He _____ (be) to London twice this year.",
-    "options": { "A": "has been", "B": "was", "C": "is", "D": "were" },
-    "correct": "A"
+    "options": { "B": "has been", "A": "was", "C": "is", "D": "were" },
+    "correct": "B"
   },
   {
     "q": "We _____ (not/meet) them yet.",
@@ -905,8 +905,8 @@
   },
   {
     "q": "She ….. (not/finish) her project yet.",
-    "options": { "A": "hasn't finished", "B": "didn't finish", "C": "doesn't finish", "D": "isn't finishing" },
-    "correct": "A"
+    "options": { "B": "hasn't finished", "A": "didn't finish", "C": "doesn't finish", "D": "isn't finishing" },
+    "correct": "B"
   },
   {
     "q": "If I ….. a lot of money, I would travel.",
@@ -915,18 +915,18 @@
   },
   {
     "q": "He …. (just/arrive) at the office.",
-    "options": { "A": "has just arrived", "B": "is just arriving", "C": "just arrived", "D": "arrives" },
-    "correct": "A"
+    "options": { "C": "has just arrived", "B": "is just arriving", "A": "just arrived", "D": "arrives" },
+    "correct": "C"
   },
   {
     "q": "I ….. (not/see) that movie before.",
-    "options": { "A": "haven't seen", "B": "don't see", "C": "didn't see", "D": "wasn't seen" },
-    "correct": "A"
+    "options": { "C": "haven't seen", "B": "don't see", "A": "didn't see", "D": "wasn't seen" },
+    "correct": "C"
   },
   {
     "q": "She ….. (live) in London since her childhood.",
-    "options": { "A": "has lived", "B": "is living", "C": "lives", "D": "lived" },
-    "correct": "A"
+    "options": { "B": "has lived", "A": "is living", "C": "lives", "D": "lived" },
+    "correct": "B"
   },
   {
     "q": "If you ….. (heat) ice, it melts.",
@@ -935,13 +935,13 @@
   },
   {
     "q": "If I had a better camera, I ….. take better photos.",
-    "options": { "A": "would", "B": "will", "C": "shall", "D": "might" },
-    "correct": "A"
+    "options": { "D": "would", "B": "will", "C": "shall", "A": "might" },
+    "correct": "D"
   },
   {
     "q": "If you …. (press) this button, the computer restarts.",
-    "options": { "A": "press", "B": "pressed", "C": "will press", "D": "pressing" },
-    "correct": "A"
+    "options": { "D": "press", "B": "pressed", "C": "will press", "A": "pressing" },
+    "correct": "D"
   },
   {
     "q": "He has been working in this company _____ six months.",
@@ -955,8 +955,8 @@
   },
   {
     "q": "Have you _____ been to America?",
-    "options": { "A": "ever", "B": "never", "C": "yet", "D": "already" },
-    "correct": "A"
+    "options": { "C": "ever", "B": "never", "A": "yet", "D": "already" },
+    "correct": "C"
   },
   {
     "q": "I have _____ finished my homework.",
@@ -970,8 +970,8 @@
   },
   {
     "q": "This is the most interesting book I have _____ read.",
-    "options": { "A": "ever", "B": "never", "C": "yet", "D": "already" },
-    "correct": "A"
+    "options": { "B": "ever", "A": "never", "C": "yet", "D": "already" },
+    "correct": "B"
   },
   {
     "q": "They _____ (be) married for 20 years.",
@@ -985,8 +985,8 @@
   },
   {
     "q": "I _____ (not/see) him today.",
-    "options": { "A": "haven't seen", "B": "didn't see", "C": "don't see", "D": "wasn't seen" },
-    "correct": "A"
+    "options": { "B": "haven't seen", "A": "didn't see", "C": "don't see", "D": "wasn't seen" },
+    "correct": "B"
   },
   {
     "q": "We _____ (live) in this house since 2005.",
@@ -999,8 +999,8 @@
     "correct": "A"
   },{
     "q": "I _____ (lose) my keys. I can't find them.",
-    "options": { "A": "have lost", "B": "lost", "C": "lose", "D": "am losing" },
-    "correct": "A"
+    "options": { "D": "have lost", "B": "lost", "C": "lose", "A": "am losing" },
+    "correct": "D"
   },
   {
     "q": "_____ you ever eaten sushi?",
@@ -1014,8 +1014,8 @@
   },
   {
     "q": "We _____ (already/see) this film.",
-    "options": { "A": "have already seen", "B": "already saw", "C": "see already", "D": "are seeing" },
-    "correct": "A"
+    "options": { "B": "have already seen", "A": "already saw", "C": "see already", "D": "are seeing" },
+    "correct": "B"
   },
   {
     "q": "The rain _____ (stop) now.",
@@ -1034,13 +1034,13 @@
   },
   {
     "q": "If it rains, the ground _____ (get) wet.",
-    "options": { "A": "gets", "B": "got", "C": "will get", "D": "getting" },
-    "correct": "A"
+    "options": { "C": "gets", "B": "got", "A": "will get", "D": "getting" },
+    "correct": "C"
   },
   {
     "q": "If you mix blue and yellow, you _____ green.",
-    "options": { "A": "get", "B": "got", "C": "will get", "D": "getting" },
-    "correct": "A"
+    "options": { "C": "get", "B": "got", "A": "will get", "D": "getting" },
+    "correct": "C"
   },
   {
     "q": "If I _____ (be) a bird, I would fly.",
@@ -1054,13 +1054,13 @@
   },
   {
     "q": "If they had more time, they _____ (help) us.",
-    "options": { "A": "would help", "B": "will help", "C": "helped", "D": "help" },
-    "correct": "A"
+    "options": { "D": "would help", "B": "will help", "C": "helped", "A": "help" },
+    "correct": "D"
   },
   {
     "q": "If I knew his number, I _____ (call) him.",
-    "options": { "A": "would call", "B": "will call", "C": "called", "D": "call" },
-    "correct": "A"
+    "options": { "B": "would call", "A": "will call", "C": "called", "D": "call" },
+    "correct": "B"
   },
   {
     "q": "What would you do if you _____ (win) the lottery?",
@@ -1069,8 +1069,8 @@
   },
   {
     "q": "If I _____ you, I wouldn't do that.",
-    "options": { "A": "were", "B": "am", "C": "was", "D": "be" },
-    "correct": "A"
+    "options": { "B": "were", "A": "am", "C": "was", "D": "be" },
+    "correct": "B"
   },
   {
     "q": "If he _____ (not/hurry), he will miss the train.",
@@ -1079,13 +1079,13 @@
   },
   {
     "q": "If I go to the shop, I _____ (buy) some milk.",
-    "options": { "A": "will buy", "B": "would buy", "C": "bought", "D": "buy" },
-    "correct": "A"
+    "options": { "C": "will buy", "B": "would buy", "A": "bought", "D": "buy" },
+    "correct": "C"
   },
   {
     "q": "If you _____ (work) hard, you will succeed.",
-    "options": { "A": "work", "B": "worked", "C": "will work", "D": "working" },
-    "correct": "A"
+    "options": { "C": "work", "B": "worked", "A": "will work", "D": "working" },
+    "correct": "C"
   },
   {
     "q": "Where _____ you (be) born?",
@@ -1099,8 +1099,8 @@
   },
   {
     "q": "They _____ (visit) London last summer.",
-    "options": { "A": "visited", "B": "have visited", "C": "visit", "D": "were visiting" },
-    "correct": "A"
+    "options": { "D": "visited", "B": "have visited", "C": "visit", "A": "were visiting" },
+    "correct": "D"
   },
   {
     "q": "What _____ (do) at 8 o'clock last night?",
@@ -1109,23 +1109,23 @@
   },
   {
     "q": "I _____ (read) a book when the phone rang.",
-    "options": { "A": "was reading", "B": "read", "C": "have read", "D": "reading" },
-    "correct": "A"
+    "options": { "C": "was reading", "B": "read", "A": "have read", "D": "reading" },
+    "correct": "C"
   },
   {
     "q": "While she _____ (cook), her husband was watching TV.",
-    "options": { "A": "was cooking", "B": "cooked", "C": "cooks", "D": "is cooking" },
-    "correct": "A"
+    "options": { "D": "was cooking", "B": "cooked", "C": "cooks", "A": "is cooking" },
+    "correct": "D"
   },
   {
     "q": "I _____ (lose) my wallet while I was walking in the park.",
-    "options": { "A": "lost", "B": "was losing", "C": "have lost", "D": "lose" },
-    "correct": "A"
+    "options": { "D": "lost", "B": "was losing", "C": "have lost", "A": "lose" },
+    "correct": "D"
   },
   {
     "q": "The light _____ (go) out while I was having a shower.",
-    "options": { "A": "went", "B": "was going", "C": "has gone", "D": "goes" },
-    "correct": "A"
+    "options": { "B": "went", "A": "was going", "C": "has gone", "D": "goes" },
+    "correct": "B"
   },
   {
     "q": "He _____ (not/go) to the cinema with us last night.",
@@ -1134,18 +1134,18 @@
   },
   {
     "q": "Did you _____ (watch) the football match on TV?",
-    "options": { "A": "watch", "B": "watched", "C": "watching", "D": "was watching" },
-    "correct": "A"
+    "options": { "C": "watch", "B": "watched", "A": "watching", "D": "was watching" },
+    "correct": "C"
   },
   {
     "q": "I _____ (meet) my friend two days ago.",
-    "options": { "A": "met", "B": "have met", "C": "meet", "D": "was meeting" },
-    "correct": "A"
+    "options": { "B": "met", "A": "have met", "C": "meet", "D": "was meeting" },
+    "correct": "B"
   },
   {
     "q": "Where _____ (be) you last weekend?",
-    "options": { "A": "were", "B": "was", "C": "did", "D": "been" },
-    "correct": "A"
+    "options": { "C": "were", "B": "was", "A": "did", "D": "been" },
+    "correct": "C"
   },
   {
     "q": "The train _____ (leave) at 10:00 yesterday morning.",
@@ -1159,13 +1159,13 @@
   },
   {
     "q": "She _____ (not/feel) well yesterday.",
-    "options": { "A": "didn't feel", "B": "wasn't feeling", "C": "hasn't felt", "D": "don't feel" },
-    "correct": "A"
+    "options": { "D": "didn't feel", "B": "wasn't feeling", "C": "hasn't felt", "A": "don't feel" },
+    "correct": "D"
   },
   {
     "q": "What time _____ (did) the meeting start?",
-    "options": { "A": "did", "B": "does", "C": "has", "D": "was" },
-    "correct": "A"
+    "options": { "B": "did", "A": "does", "C": "has", "D": "was" },
+    "correct": "B"
   },
   {
     "q": "They _____ (play) tennis when it started to rain.",
@@ -1174,8 +1174,8 @@
   },
   {
     "q": "He _____ (drive) home when he saw the accident.",
-    "options": { "A": "was driving", "B": "drove", "C": "has driven", "D": "drives" },
-    "correct": "A"
+    "options": { "B": "was driving", "A": "drove", "C": "has driven", "D": "drives" },
+    "correct": "B"
   },
   {
     "q": "I _____ (not/do) anything at 10 o'clock yesterday.",
@@ -1184,8 +1184,8 @@
   },
   {
     "q": "As I _____ (walk) down the street, I met an old friend.",
-    "options": { "A": "was walking", "B": "walked", "C": "am walking", "D": "walk" },
-    "correct": "A"
+    "options": { "C": "was walking", "B": "walked", "A": "am walking", "D": "walk" },
+    "correct": "C"
   },
   {
     "q": "The sun _____ (shine) when I woke up.",
@@ -1194,18 +1194,18 @@
   },
   {
     "q": "While I _____ (work), my sister was sleeping.",
-    "options": { "A": "was working", "B": "worked", "C": "am working", "D": "work" },
-    "correct": "A"
+    "options": { "B": "was working", "A": "worked", "C": "am working", "D": "work" },
+    "correct": "B"
   },
   {
     "q": "He _____ (break) his leg while he was skiing.",
-    "options": { "A": "broke", "B": "was breaking", "C": "has broken", "D": "breaks" },
-    "correct": "A"
+    "options": { "C": "broke", "B": "was breaking", "A": "has broken", "D": "breaks" },
+    "correct": "C"
   },
   {
     "q": "What _____ (she/do) when you called her?",
-    "options": { "A": "was she doing", "B": "did she do", "C": "is she doing", "D": "she does" },
-    "correct": "A"
+    "options": { "D": "was she doing", "B": "did she do", "C": "is she doing", "A": "she does" },
+    "correct": "D"
   },
   {
     "q": "I _____ (see) a famous actor in the street yesterday.",
@@ -1214,8 +1214,8 @@
   },
   {
     "q": "They _____ (not/work) yesterday because it was a holiday.",
-    "options": { "A": "didn't work", "B": "weren't working", "C": "haven't worked", "D": "don't work" },
-    "correct": "A"
+    "options": { "C": "didn't work", "B": "weren't working", "A": "haven't worked", "D": "don't work" },
+    "correct": "C"
   },
   {
     "q": "When I arrived, they _____ (have) dinner.",
@@ -1224,13 +1224,13 @@
   },
   {
     "q": "I _____ (forget) to bring my umbrella yesterday.",
-    "options": { "A": "forgot", "B": "have forgotten", "C": "forgetting", "D": "forget" },
-    "correct": "A"
+    "options": { "B": "forgot", "A": "have forgotten", "C": "forgetting", "D": "forget" },
+    "correct": "B"
   },
   {
     "q": "She _____ (study) for the exam all night.",
-    "options": { "A": "was studying", "B": "studied", "C": "has studied", "D": "studies" },
-    "correct": "A"
+    "options": { "D": "was studying", "B": "studied", "C": "has studied", "A": "studies" },
+    "correct": "D"
   },
   {
     "q": "It _____ (start) to snow while we were driving.",
@@ -1239,18 +1239,18 @@
   },
   {
     "q": "We _____ (not/watch) TV at that time.",
-    "options": { "A": "weren't watching", "B": "didn't watch", "C": "haven't watched", "D": "don't watch" },
-    "correct": "A"
+    "options": { "C": "weren't watching", "B": "didn't watch", "A": "haven't watched", "D": "don't watch" },
+    "correct": "C"
   },
   {
     "q": "Who _____ (win) the match last night?",
-    "options": { "A": "won", "B": "was winning", "C": "has won", "D": "wins" },
-    "correct": "A"
+    "options": { "D": "won", "B": "was winning", "C": "has won", "A": "wins" },
+    "correct": "D"
   },
   {
     "q": "I _____ (listen) to music when you knocked on the door.",
-    "options": { "A": "was listening", "B": "listened", "C": "am listening", "D": "listen" },
-    "correct": "A"
+    "options": { "D": "was listening", "B": "listened", "C": "am listening", "A": "listen" },
+    "correct": "D"
   },
   {
     "q": "He _____ (phone) me while I was out.",
@@ -1259,8 +1259,8 @@
   },
   {
     "q": "The mouse is ………... the table",
-    "options": { "A": "under", "B": "above", "C": "between", "D": "in" },
-    "correct": "A"
+    "options": { "C": "under", "B": "above", "A": "between", "D": "in" },
+    "correct": "C"
   },
   {
     "q": "The book is ………. the bag",
@@ -1269,23 +1269,23 @@
   },
   {
     "q": "The lamp is ……….. the desk",
-    "options": { "A": "on", "B": "in", "C": "at", "D": "under" },
-    "correct": "A"
+    "options": { "B": "on", "A": "in", "C": "at", "D": "under" },
+    "correct": "B"
   },
   {
     "q": "He is standing ……….. the door",
-    "options": { "A": "at", "B": "on", "C": "in", "D": "under" },
-    "correct": "A"
+    "options": { "B": "at", "A": "on", "C": "in", "D": "under" },
+    "correct": "B"
   },
   {
     "q": "The picture is ………. the wall",
-    "options": { "A": "on", "B": "in", "C": "at", "D": "under" },
-    "correct": "A"
+    "options": { "B": "on", "A": "in", "C": "at", "D": "under" },
+    "correct": "B"
   },
   {
     "q": "The cat is hiding ………. the sofa",
-    "options": { "A": "behind", "B": "on", "C": "in", "D": "above" },
-    "correct": "A"
+    "options": { "D": "behind", "B": "on", "C": "in", "A": "above" },
+    "correct": "D"
   },
   {
     "q": "The school is ………. the hospital and the bank",
@@ -1294,8 +1294,8 @@
   },
   {
     "q": "I am waiting ………. the bus stop",
-    "options": { "A": "at", "B": "on", "C": "in", "D": "to" },
-    "correct": "A"
+    "options": { "C": "at", "B": "on", "A": "in", "D": "to" },
+    "correct": "C"
   },
   {
     "q": "There is a bridge ………. the river",
@@ -1304,23 +1304,23 @@
   },
   {
     "q": "She is sitting ………. her sister",
-    "options": { "A": "next to", "B": "between", "C": "among", "D": "at" },
-    "correct": "A"
+    "options": { "D": "next to", "B": "between", "C": "among", "A": "at" },
+    "correct": "D"
   },
   {
     "q": "Put the keys ………. the drawer",
-    "options": { "A": "in", "B": "on", "C": "at", "D": "over" },
-    "correct": "A"
+    "options": { "D": "in", "B": "on", "C": "at", "A": "over" },
+    "correct": "D"
   },
   {
     "q": "The plane flew ………. the mountains",
-    "options": { "A": "over", "B": "on", "C": "at", "D": "in" },
-    "correct": "A"
+    "options": { "C": "over", "B": "on", "A": "at", "D": "in" },
+    "correct": "C"
   },
   {
     "q": "He jumped ………. the fence",
-    "options": { "A": "over", "B": "on", "C": "in", "D": "at" },
-    "correct": "A"
+    "options": { "D": "over", "B": "on", "C": "in", "A": "at" },
+    "correct": "D"
   },
   {
     "q": "I'll see you ………. Monday",
@@ -1329,23 +1329,23 @@
   },
   {
     "q": "My birthday is ………. July",
-    "options": { "A": "in", "B": "on", "C": "at", "D": "from" },
-    "correct": "A"
+    "options": { "C": "in", "B": "on", "A": "at", "D": "from" },
+    "correct": "C"
   },
   {
     "q": "The meeting is ………. 9 o'clock",
-    "options": { "A": "at", "B": "on", "C": "in", "D": "by" },
-    "correct": "A"
+    "options": { "D": "at", "B": "on", "C": "in", "A": "by" },
+    "correct": "D"
   },
   {
     "q": "We wake up ………. the morning",
-    "options": { "A": "in", "B": "on", "C": "at", "D": "to" },
-    "correct": "A"
+    "options": { "D": "in", "B": "on", "C": "at", "A": "to" },
+    "correct": "D"
   },
   {
     "q": "It is cold ………. winter",
-    "options": { "A": "in", "B": "on", "C": "at", "D": "to" },
-    "correct": "A"
+    "options": { "D": "in", "B": "on", "C": "at", "A": "to" },
+    "correct": "D"
   },{
     "q": "I was born ………. 2005",
     "options": { "A": "in", "B": "on", "C": "at", "D": "since" },
@@ -1353,13 +1353,13 @@
   },
   {
     "q": "She goes to the gym ………. Saturdays",
-    "options": { "A": "on", "B": "in", "C": "at", "D": "for" },
-    "correct": "A"
+    "options": { "D": "on", "B": "in", "C": "at", "A": "for" },
+    "correct": "D"
   },
   {
     "q": "The store closes ………. midnight",
-    "options": { "A": "at", "B": "on", "C": "in", "D": "to" },
-    "correct": "A"
+    "options": { "B": "at", "A": "on", "C": "in", "D": "to" },
+    "correct": "B"
   },
   {
     "q": "We are going on holiday ………. August",
@@ -1368,18 +1368,18 @@
   },
   {
     "q": "I’ll be back ………. ten minutes",
-    "options": { "A": "in", "B": "on", "C": "at", "D": "for" },
-    "correct": "A"
+    "options": { "C": "in", "B": "on", "A": "at", "D": "for" },
+    "correct": "C"
   },
   {
     "q": "They got married ………. June 12th",
-    "options": { "A": "on", "B": "in", "C": "at", "D": "since" },
-    "correct": "A"
+    "options": { "C": "on", "B": "in", "A": "at", "D": "since" },
+    "correct": "C"
   },
   {
     "q": "I don't like working ………. night",
-    "options": { "A": "at", "B": "on", "C": "in", "D": "for" },
-    "correct": "A"
+    "options": { "D": "at", "B": "on", "C": "in", "A": "for" },
+    "correct": "D"
   },
   {
     "q": "The flowers bloom ………. spring",
@@ -1388,8 +1388,8 @@
   },
   {
     "q": "I have been waiting ………. two hours",
-    "options": { "A": "for", "B": "since", "C": "at", "D": "during" },
-    "correct": "A"
+    "options": { "C": "for", "B": "since", "A": "at", "D": "during" },
+    "correct": "C"
   },
   {
     "q": "He has been here ………. 9 o'clock",
@@ -1398,13 +1398,13 @@
   },
   {
     "q": "I'll finish the work ………. tomorrow",
-    "options": { "A": "by", "B": "at", "C": "in", "D": "to" },
-    "correct": "A"
+    "options": { "D": "by", "B": "at", "C": "in", "A": "to" },
+    "correct": "D"
   },
   {
     "q": "The shop is open ………. 9 am to 6 pm",
-    "options": { "A": "from", "B": "at", "C": "in", "D": "since" },
-    "correct": "A"
+    "options": { "D": "from", "B": "at", "C": "in", "A": "since" },
+    "correct": "D"
   },
   {
     "q": "He walked ………. the room",
@@ -1413,8 +1413,8 @@
   },
   {
     "q": "The book fell ………. the floor",
-    "options": { "A": "onto", "B": "at", "C": "in", "D": "to" },
-    "correct": "A"
+    "options": { "C": "onto", "B": "at", "A": "in", "D": "to" },
+    "correct": "C"
   },
   {
     "q": "He ran ………. the bridge",
@@ -1423,8 +1423,8 @@
   },
   {
     "q": "The car went ………. the tunnel",
-    "options": { "A": "through", "B": "across", "C": "over", "D": "into" },
-    "correct": "A"
+    "options": { "D": "through", "B": "across", "C": "over", "A": "into" },
+    "correct": "D"
   },
   {
     "q": "She is ………. (tall) than her brother.",
@@ -1438,8 +1438,8 @@
   },
   {
     "q": "Computers are ………. (fast) than before.",
-    "options": { "A": "faster", "B": "fastest", "C": "more fast", "D": "the fastest" },
-    "correct": "A"
+    "options": { "C": "faster", "B": "fastest", "A": "more fast", "D": "the fastest" },
+    "correct": "C"
   },
   {
     "q": "He is the ………. (smart) student in the class.",
@@ -1448,23 +1448,23 @@
   },
   {
     "q": "This laptop is ………. (expensive) than that one.",
-    "options": { "A": "more expensive", "B": "expensiver", "C": "most expensive", "D": "the expensiver" },
-    "correct": "A"
+    "options": { "D": "more expensive", "B": "expensiver", "C": "most expensive", "A": "the expensiver" },
+    "correct": "D"
   },
   {
     "q": "Gold is ………. (heavy) than silver.",
-    "options": { "A": "heavier", "B": "heaviest", "C": "more heavy", "D": "most heavy" },
-    "correct": "A"
+    "options": { "C": "heavier", "B": "heaviest", "A": "more heavy", "D": "most heavy" },
+    "correct": "C"
   },
   {
     "q": "This is the ………. (difficult) exam of the year.",
-    "options": { "A": "most difficult", "B": "more difficult", "C": "difficulter", "D": "difficultest" },
-    "correct": "A"
+    "options": { "B": "most difficult", "A": "more difficult", "C": "difficulter", "D": "difficultest" },
+    "correct": "B"
   },
   {
     "q": "I feel ………. (bad) today than yesterday.",
-    "options": { "A": "worse", "B": "worst", "C": "badder", "D": "more bad" },
-    "correct": "A"
+    "options": { "D": "worse", "B": "worst", "C": "badder", "A": "more bad" },
+    "correct": "D"
   },
   {
     "q": "She is as ………. (old) as my sister.",
@@ -1473,18 +1473,18 @@
   },
   {
     "q": "The Amazon is the ………. (long) river in the world.",
-    "options": { "A": "longest", "B": "longer", "C": "long", "D": "most long" },
-    "correct": "A"
+    "options": { "C": "longest", "B": "longer", "A": "long", "D": "most long" },
+    "correct": "C"
   },
   {
     "q": "I want to buy a ………. (big) house.",
-    "options": { "A": "bigger", "B": "biggest", "C": "big", "D": "more big" },
-    "correct": "A"
+    "options": { "D": "bigger", "B": "biggest", "C": "big", "A": "more big" },
+    "correct": "D"
   },
   {
     "q": "That was the ………. (funny) joke I heard.",
-    "options": { "A": "funniest", "B": "funnier", "C": "more funny", "D": "most funny" },
-    "correct": "A"
+    "options": { "C": "funniest", "B": "funnier", "A": "more funny", "D": "most funny" },
+    "correct": "C"
   },
   {
     "q": "This car is ………. (modern) than the old one.",
@@ -1493,13 +1493,13 @@
   },
   {
     "q": "He works ………. (hard) than his colleague.",
-    "options": { "A": "harder", "B": "hardest", "C": "more hard", "D": "the hardest" },
-    "correct": "A"
+    "options": { "C": "harder", "B": "hardest", "A": "more hard", "D": "the hardest" },
+    "correct": "C"
   },
   {
     "q": "It is ………. (hot) today than it was yesterday.",
-    "options": { "A": "hotter", "B": "hottest", "C": "more hot", "D": "the hottest" },
-    "correct": "A"
+    "options": { "D": "hotter", "B": "hottest", "C": "more hot", "A": "the hottest" },
+    "correct": "D"
   },
   {
     "q": "She speaks English ………. (well) than me.",
@@ -1508,13 +1508,13 @@
   },
   {
     "q": "This is the ………. (cheap) phone in the shop.",
-    "options": { "A": "cheapest", "B": "cheaper", "C": "more cheap", "D": "cheap" },
-    "correct": "A"
+    "options": { "B": "cheapest", "A": "cheaper", "C": "more cheap", "D": "cheap" },
+    "correct": "B"
   },
   {
     "q": "My brother is ………. (young) than me.",
-    "options": { "A": "younger", "B": "youngest", "C": "more young", "D": "young" },
-    "correct": "A"
+    "options": { "D": "younger", "B": "youngest", "C": "more young", "A": "young" },
+    "correct": "D"
   },
   {
     "q": "This task is ………. (easy) than the previous one.",
@@ -1523,18 +1523,18 @@
   },
   {
     "q": "He is the ………. (rich) man in the city.",
-    "options": { "A": "richest", "B": "richer", "C": "more rich", "D": "most rich" },
-    "correct": "A"
+    "options": { "C": "richest", "B": "richer", "A": "more rich", "D": "most rich" },
+    "correct": "C"
   },
   {
     "q": "I ………. (see) a great film last night.",
-    "options": { "A": "saw", "B": "seen", "C": "see", "D": "am seeing" },
-    "correct": "A"
+    "options": { "D": "saw", "B": "seen", "C": "see", "A": "am seeing" },
+    "correct": "D"
   },
   {
     "q": "She ………. (not/go) to school yesterday.",
-    "options": { "A": "didn't go", "B": "doesn't go", "C": "wasn't go", "D": "not go" },
-    "correct": "A"
+    "options": { "D": "didn't go", "B": "doesn't go", "C": "wasn't go", "A": "not go" },
+    "correct": "D"
   },
   {
     "q": "We ………. (live) in Baku for ten years.",
@@ -1548,13 +1548,13 @@
   },
   {
     "q": "They ………. (finish) their project already.",
-    "options": { "A": "have finished", "B": "finish", "C": "finished", "D": "are finishing" },
-    "correct": "A"
+    "options": { "B": "have finished", "A": "finish", "C": "finished", "D": "are finishing" },
+    "correct": "B"
   },
   {
     "q": "He ………. (write) an email at the moment.",
-    "options": { "A": "is writing", "B": "writes", "C": "wrote", "D": "has written" },
-    "correct": "A"
+    "options": { "B": "is writing", "A": "writes", "C": "wrote", "D": "has written" },
+    "correct": "B"
   },
   {
     "q": "I ………. (not/see) him since last month.",
@@ -1563,13 +1563,13 @@
   },
   {
     "q": "If I ………. (be) you, I would take the job.",
-    "options": { "A": "were", "B": "am", "C": "was", "D": "be" },
-    "correct": "A"
+    "options": { "C": "were", "B": "am", "A": "was", "D": "be" },
+    "correct": "C"
   },
   {
     "q": "She ………. (work) every day.",
-    "options": { "A": "works", "B": "work", "C": "is working", "D": "has worked" },
-    "correct": "A"
+    "options": { "D": "works", "B": "work", "C": "is working", "A": "has worked" },
+    "correct": "D"
   },
   {
     "q": "We ………. (visit) Ganja next week.",
@@ -1583,8 +1583,8 @@
   },
   {
     "q": "He ………. (just/leave) the office.",
-    "options": { "A": "has just left", "B": "just left", "C": "is just leaving", "D": "leaves" },
-    "correct": "A"
+    "options": { "D": "has just left", "B": "just left", "C": "is just leaving", "A": "leaves" },
+    "correct": "D"
   },
   {
     "q": "I ………. (not/eat) breakfast this morning.",
@@ -1598,23 +1598,23 @@
   },
   {
     "q": "They ………. (play) football when it started to rain.",
-    "options": { "A": "were playing", "B": "played", "C": "play", "D": "are playing" },
-    "correct": "A"
+    "options": { "B": "were playing", "A": "played", "C": "play", "D": "are playing" },
+    "correct": "B"
   },
   {
     "q": "She ………. (can) speak three languages.",
-    "options": { "A": "can", "B": "could", "C": "is able", "D": "may" },
-    "correct": "A"
+    "options": { "D": "can", "B": "could", "C": "is able", "A": "may" },
+    "correct": "D"
   },
   {
     "q": "I ………. (must) finish my work today.",
-    "options": { "A": "must", "B": "should", "C": "can", "D": "may" },
-    "correct": "A"
+    "options": { "C": "must", "B": "should", "A": "can", "D": "may" },
+    "correct": "C"
   },
   {
     "q": "You ………. (not/should) smoke here.",
-    "options": { "A": "shouldn't", "B": "mustn't", "C": "can't", "D": "won't" },
-    "correct": "A"
+    "options": { "C": "shouldn't", "B": "mustn't", "A": "can't", "D": "won't" },
+    "correct": "C"
   },
   {
     "q": "May I ………. (come) in?",
@@ -1628,13 +1628,13 @@
   },
   {
     "q": "We ………. (not/have) any money.",
-    "options": { "A": "don't have", "B": "doesn't have", "C": "haven't", "D": "not have" },
-    "correct": "A"
+    "options": { "D": "don't have", "B": "doesn't have", "C": "haven't", "A": "not have" },
+    "correct": "D"
   },
   {
     "q": "Do you ………. (like) music?",
-    "options": { "A": "like", "B": "likes", "C": "liking", "D": "liked" },
-    "correct": "A"
+    "options": { "B": "like", "A": "likes", "C": "liking", "D": "liked" },
+    "correct": "B"
   },
   {
     "q": "I ………. (study) English now.",
@@ -1643,13 +1643,13 @@
   },
   {
     "q": "She ………. (go) to the cinema last Sunday.",
-    "options": { "A": "went", "B": "goes", "C": "has gone", "D": "was going" },
-    "correct": "A"
+    "options": { "C": "went", "B": "goes", "A": "has gone", "D": "was going" },
+    "correct": "C"
   },
   {
     "q": "Have you ………. (be) to London?",
-    "options": { "A": "been", "B": "be", "C": "was", "D": "being" },
-    "correct": "A"
+    "options": { "B": "been", "A": "be", "C": "was", "D": "being" },
+    "correct": "B"
   },
   {
     "q": "He ………. (not/work) today.",
@@ -1658,23 +1658,23 @@
   },
   {
     "q": "I ………. (will/call) you tomorrow.",
-    "options": { "A": "will call", "B": "call", "C": "called", "D": "am calling" },
-    "correct": "A"
+    "options": { "B": "will call", "A": "call", "C": "called", "D": "am calling" },
+    "correct": "B"
   },
   {
     "q": "They ………. (live) here since 2010.",
-    "options": { "A": "have lived", "B": "live", "C": "lived", "D": "are living" },
-    "correct": "A"
+    "options": { "B": "have lived", "A": "live", "C": "lived", "D": "are living" },
+    "correct": "B"
   },
   {
     "q": "If I ………. (have) money, I would buy a car.",
-    "options": { "A": "had", "B": "have", "C": "will have", "D": "has" },
-    "correct": "A"
+    "options": { "D": "had", "B": "have", "C": "will have", "D": "has" },
+    "correct": "D"
   },
   {
     "q": "She ………. (read) a book when I entered.",
-    "options": { "A": "was reading", "B": "read", "C": "is reading", "D": "has read" },
-    "correct": "A"
+    "options": { "C": "was reading", "B": "read", "A": "is reading", "D": "has read" },
+    "correct": "C"
   },
   {
     "q": "This is ………. (interesting) book I've ever read.",
@@ -1683,13 +1683,13 @@
   },
   {
     "q": "He is ………. (good) than me at chess.",
-    "options": { "A": "better", "B": "best", "C": "gooder", "D": "more good" },
-    "correct": "A"
+    "options": { "D": "better", "B": "best", "C": "gooder", "A": "more good" },
+    "correct": "D"
   },
   {
     "q": "I am ………. (busy) today than yesterday.",
-    "options": { "A": "busier", "B": "busiest", "C": "more busy", "D": "most busy" },
-    "correct": "A"
+    "options": { "B": "busier", "A": "busiest", "C": "more busy", "D": "most busy" },
+    "correct": "B"
   },
   {
     "q": "She is the ………. (pretty) girl in the class.",
@@ -1707,8 +1707,8 @@
   },
   {
     "q": "It is ………. (cold) today than yesterday.",
-    "options": { "A": "colder", "B": "coldest", "C": "more cold", "D": "the cold" },
-    "correct": "A"
+    "options": { "D": "colder", "B": "coldest", "C": "more cold", "A": "the cold" },
+    "correct": "D"
   },
   {
     "q": "This is the ………. (expensive) watch in the shop.",
@@ -1717,8 +1717,8 @@
   },
   {
     "q": "I have ………. (many) friends than him.",
-    "options": { "A": "more", "B": "most", "C": "manyer", "D": "the most" },
-    "correct": "A"
+    "options": { "C": "more", "B": "most", "A": "manyer", "D": "the most" },
+    "correct": "C"
   },
   {
     "q": "She is ………. (intelligent) than her sister.",
@@ -1727,13 +1727,13 @@
   },
   {
     "q": "He is the ………. (old) person in the village.",
-    "options": { "A": "oldest", "B": "older", "C": "more old", "D": "old" },
-    "correct": "A"
+    "options": { "B": "oldest", "A": "older", "C": "more old", "D": "old" },
+    "correct": "B"
   },
   {
     "q": "This is the ………. (bad) day of my life.",
-    "options": { "A": "worst", "B": "worse", "C": "badder", "D": "most bad" },
-    "correct": "A"
+    "options": { "C": "worst", "B": "worse", "A": "badder", "D": "most bad" },
+    "correct": "C"
   },
   {
     "q": "My car is ………. (small) than yours.",
@@ -1752,13 +1752,13 @@
   },
   {
     "q": "This is the ………. (cheap) restaurant in town.",
-    "options": { "A": "cheapest", "B": "cheaper", "C": "more cheap", "D": "cheap" },
-    "correct": "A"
+    "options": { "C": "cheapest", "B": "cheaper", "A": "more cheap", "D": "cheap" },
+    "correct": "C"
   },
   {
     "q": "He is ………. (strong) than his friend.",
-    "options": { "A": "stronger", "B": "strongest", "C": "more strong", "D": "the strong" },
-    "correct": "A"
+    "options": { "B": "stronger", "A": "strongest", "C": "more strong", "D": "the strong" },
+    "correct": "B"
   },
   {
     "q": "This is the ………. (wide) river in the country.",
@@ -1772,8 +1772,8 @@
   },
   {
     "q": "She is the ………. (young) in her family.",
-    "options": { "A": "youngest", "B": "younger", "C": "more young", "D": "young" },
-    "correct": "A"
+    "options": { "D": "youngest", "B": "younger", "C": "more young", "A": "young" },
+    "correct": "D"
   },
   {
     "q": "This box is ………. (heavy) than that one.",
@@ -1792,28 +1792,28 @@
   },
   {
     "q": "This is the ………. (beautiful) flower in the garden.",
-    "options": { "A": "most beautiful", "B": "more beautiful", "C": "beautifuller", "D": "beautifulest" },
-    "correct": "A"
+    "options": { "D": "most beautiful", "B": "more beautiful", "C": "beautifuller", "A": "beautifulest" },
+    "correct": "D"
   },
   {
     "q": "I work ………. (hard) than before.",
-    "options": { "A": "harder", "B": "hardest", "C": "more hard", "D": "hard" },
-    "correct": "A"
+    "options": { "C": "harder", "B": "hardest", "A": "more hard", "D": "hard" },
+    "correct": "C"
   },
   {
     "q": "He is the ………. (rich) person in the world.",
-    "options": { "A": "richest", "B": "richer", "C": "more rich", "D": "rich" },
-    "correct": "A"
+    "options": { "C": "richest", "B": "richer", "A": "more rich", "D": "rich" },
+    "correct": "C"
   },
   {
     "q": "This movie is ………. (long) than the other one.",
-    "options": { "A": "longer", "B": "longest", "C": "more long", "D": "long" },
-    "correct": "A"
+    "options": { "B": "longer", "A": "longest", "C": "more long", "D": "long" },
+    "correct": "B"
   },
   {
     "q": "She is the ………. (thin) girl in the class.",
-    "options": { "A": "thinnest", "B": "thinner", "C": "more thin", "D": "thin" },
-    "correct": "A"
+    "options": { "B": "thinnest", "A": "thinner", "C": "more thin", "D": "thin" },
+    "correct": "B"
   },
   {
     "q": "I am ………. (short) than my brother.",
@@ -1827,18 +1827,18 @@
   },
   {
     "q": "He is ………. (brave) than his brother.",
-    "options": { "A": "braver", "B": "bravest", "C": "more brave", "D": "brave" },
-    "correct": "A"
+    "options": { "C": "braver", "B": "bravest", "A": "more brave", "D": "brave" },
+    "correct": "C"
   },
   {
     "q": "This is the ………. (large) city in the world.",
-    "options": { "A": "largest", "B": "larger", "C": "more large", "D": "large" },
-    "correct": "A"
+    "options": { "D": "largest", "B": "larger", "C": "more large", "A": "large" },
+    "correct": "D"
   },
   {
     "q": "I am ………. (happy) now than before.",
-    "options": { "A": "happier", "B": "happiest", "C": "more happy", "D": "happy" },
-    "correct": "A"
+    "options": { "B": "happier", "A": "happiest", "C": "more happy", "D": "happy" },
+    "correct": "B"
   },
   {
     "q": "She is the ………. (smart) in her class.",
@@ -1847,13 +1847,13 @@
   },
   {
     "q": "This is the ………. (new) model of the car.",
-    "options": { "A": "newest", "B": "newer", "C": "more new", "D": "new" },
-    "correct": "A"
+    "options": { "C": "newest", "B": "newer", "A": "more new", "D": "new" },
+    "correct": "C"
   },
   {
     "q": "He is ………. (famous) than his father.",
-    "options": { "A": "more famous", "B": "famouser", "C": "most famous", "D": "famous" },
-    "correct": "A"
+    "options": { "D": "more famous", "B": "famouser", "C": "most famous", "A": "famous" },
+    "correct": "D"
   },
   {
     "q": "This is the ………. (high) mountain in the world.",
@@ -1862,8 +1862,8 @@
   },
   {
     "q": "I am ………. (lazy) than my friend.",
-    "options": { "A": "lazier", "B": "laziest", "C": "more lazy", "D": "lazy" },
-    "correct": "A"
+    "options": { "C": "lazier", "B": "laziest", "A": "more lazy", "D": "lazy" },
+    "correct": "C"
   },
   {
     "q": "She is the ………. (kind) person I know.",
@@ -1872,58 +1872,58 @@
   },
   {
     "q": "This is the ………. (small) room in the house.",
-    "options": { "A": "smallest", "B": "smaller", "C": "more small", "D": "small" },
-    "correct": "A"
+    "options": { "D": "smallest", "B": "smaller", "C": "more small", "A": "small" },
+    "correct": "D"
   },
   {
     "q": "He is ………. (lucky) than me.",
-    "options": { "A": "luckier", "B": "luckiest", "C": "more lucky", "D": "lucky" },
-    "correct": "A"
+    "options": { "D": "luckier", "B": "luckiest", "C": "more lucky", "A": "lucky" },
+    "correct": "D"
   },
   {
     "q": "This is the ………. (easy) way to learn English.",
-    "options": { "A": "easiest", "B": "easier", "C": "more easy", "D": "easy" },
-    "correct": "A"
+    "options": { "C": "easiest", "B": "easier", "A": "more easy", "D": "easy" },
+    "correct": "C"
   },
   {
     "q": "I am ………. (young) than my sister.",
-    "options": { "A": "younger", "B": "youngest", "C": "more young", "D": "young" },
-    "correct": "A"
+    "options": { "C": "younger", "B": "youngest", "A": "more young", "D": "young" },
+    "correct": "C"
   },
   {
     "q": "She is the ………. (wise) woman in the village.",
-    "options": { "A": "wisest", "B": "wiser", "C": "more wise", "D": "wise" },
-    "correct": "A"
+    "options": { "B": "wisest", "A": "wiser", "C": "more wise", "D": "wise" },
+    "correct": "B"
   },
   {
     "q": "This is the ………. (clean) city in the country.",
-    "options": { "A": "cleanest", "B": "cleaner", "C": "more clean", "D": "clean" },
-    "correct": "A"
+    "options": { "B": "cleanest", "A": "cleaner", "C": "more clean", "D": "clean" },
+    "correct": "B"
   },
   {
     "q": "He is ………. (funny) than his brother.",
-    "options": { "A": "funnier", "B": "funniest", "C": "more funny", "D": "funny" },
-    "correct": "A"
+    "options": { "D": "funnier", "B": "funniest", "C": "more funny", "A": "funny" },
+    "correct": "D"
   },
   {
     "q": "This is the ………. (bright) star in the sky.",
-    "options": { "A": "brightest", "B": "brighter", "C": "more bright", "D": "bright" },
-    "correct": "A"
+    "options": { "B": "brightest", "A": "brighter", "C": "more bright", "D": "bright" },
+    "correct": "B"
   },
   {
     "q": "I am ………. (rich) than before.",
-    "options": { "A": "richer", "B": "richest", "C": "more rich", "D": "rich" },
-    "correct": "A"
+    "options": { "C": "richer", "B": "richest", "A": "more rich", "D": "rich" },
+    "correct": "C"
   },
   {
     "q": "She is the ………. (careful) driver in the family.",
-    "options": { "A": "most careful", "B": "more careful", "C": "carefuller", "D": "careful" },
-    "correct": "A"
+    "options": { "C": "most careful", "B": "more careful", "A": "carefuller", "D": "careful" },
+    "correct": "C"
   },
   {
     "q": "This is the ………. (dark) night of the year.",
-    "options": { "A": "darkest", "B": "darker", "C": "more dark", "D": "dark" },
-    "correct": "A"
+    "options": { "B": "darkest", "A": "darker", "C": "more dark", "D": "dark" },
+    "correct": "B"
   },
   {
     "q": "He is ………. (patient) than his sister.",
@@ -1932,8 +1932,8 @@
   },
   {
     "q": "This is the ………. (loud) sound I've heard.",
-    "options": { "A": "loudest", "B": "louder", "C": "more loud", "D": "loud" },
-    "correct": "A"
+    "options": { "C": "loudest", "B": "louder", "A": "more loud", "D": "loud" },
+    "correct": "C"
   },
   {
     "q": "I am ………. (strong) than last year.",
@@ -1945,4 +1945,5 @@
     "options": { "A": "neatest", "B": "neater", "C": "more neat", "D": "neat" },
     "correct": "A"
   }
+
 ]
